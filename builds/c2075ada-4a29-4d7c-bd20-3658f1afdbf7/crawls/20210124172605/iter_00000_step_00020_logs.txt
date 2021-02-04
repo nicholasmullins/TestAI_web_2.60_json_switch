@@ -1,0 +1,1 @@
+[{u'level': u'SEVERE', u'message': u'https://magazine.cioreview.com/UInew/js/javascript_version1.js 0:1050 Uncaught ReferenceError: Drupal is not defined', u'timestamp': 1611538535609L}, {u'level': u'SEVERE', u'message': u'https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js 1:83694 Uncaught TypeError: e.indexOf is not a function', u'timestamp': 1611538535970L}]

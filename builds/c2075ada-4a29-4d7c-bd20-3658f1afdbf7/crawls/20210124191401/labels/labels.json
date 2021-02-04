@@ -1,0 +1,26 @@
+{
+    "elems": {
+        "iter_00000_step_00012_9_h1.png": [
+            "ttl_quest"
+        ], 
+        "iter_00000_step_00014_0_div.png": [
+            "div_bg"
+        ], 
+        "iter_00000_step_00014_1_div.png": [
+            "div_bg"
+        ], 
+        "iter_00000_step_00014_7_div.png": [
+            "div_bg"
+        ], 
+        "iter_00000_step_00014_9_div.png": [
+            "div_bg"
+        ], 
+        "iter_00000_step_00018_74_span.png": [
+            "ttl_fifty"
+        ], 
+        "iter_00000_step_00019_46_h1.png": [
+            "ttl_ai_software"
+        ]
+    }, 
+    "screens": {}
+}

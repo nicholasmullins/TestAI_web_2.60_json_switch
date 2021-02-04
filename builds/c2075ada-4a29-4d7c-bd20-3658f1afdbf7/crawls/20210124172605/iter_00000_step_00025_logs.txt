@@ -1,0 +1,1 @@
+[{u'level': u'SEVERE', u'message': u'https://magazine.cioreview.com/UInew/js/javascript_version1.js 0:1050 Uncaught ReferenceError: Drupal is not defined', u'timestamp': 1611538700786L}, {u'level': u'SEVERE', u'message': u'https://www.cioreview.com/contact-us/ 1443:23 Uncaught TypeError: jQuery(...).cycle is not a function', u'timestamp': 1611538700910L}]

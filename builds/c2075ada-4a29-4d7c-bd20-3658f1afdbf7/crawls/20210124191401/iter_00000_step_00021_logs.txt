@@ -1,0 +1,1 @@
+[{u'level': u'SEVERE', u'message': u'https://searchsoftwarequality.techtarget.com/tutorial/Software-quality-tutorials - Failed to load resource: the server responded with a status of 404 ()', u'timestamp': 1611544924144L}]

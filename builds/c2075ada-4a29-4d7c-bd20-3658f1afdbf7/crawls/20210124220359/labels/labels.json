@@ -1,0 +1,68 @@
+{
+    "elems": {
+        "iter_00000_step_00007_4_a.png": [
+            "lnk_business_intelligence"
+        ], 
+        "iter_00000_step_00008_12_a.png": [
+            "lnk_high_tech_server"
+        ], 
+        "iter_00000_step_00008_17_a.png": [
+            "lnk_fitness_industry"
+        ], 
+        "iter_00000_step_00009_5_a.png": [
+            "lnk_transportation"
+        ], 
+        "iter_00000_step_00011_10_a.png": [
+            "lnk_digital_leader"
+        ], 
+        "iter_00000_step_00011_17_a.png": [
+            "lnk_gaming"
+        ], 
+        "iter_00000_step_00012_3_a.png": [
+            "lnk_gaming_streaming"
+        ], 
+        "iter_00000_step_00014_21_a.png": [
+            "lnk_business_intelligence"
+        ], 
+        "iter_00000_step_00016_0_a.png": [
+            "lnk_high_tech_server"
+        ], 
+        "iter_00000_step_00016_13_a.png": [
+            "lnk_fitness_industry"
+        ], 
+        "iter_00000_step_00016_6_a.png": [
+            "lnk_transportation"
+        ], 
+        "iter_00000_step_00018_15_a.png": [
+            "lnk_digital_leader"
+        ], 
+        "iter_00000_step_00019_2_a.png": [
+            "lnk_gaming_streaming"
+        ], 
+        "iter_00000_step_00019_5_a.png": [
+            "lnk_gaming"
+        ], 
+        "iter_00000_step_00022_0_a.png": [
+            "btn_demo_ap"
+        ], 
+        "iter_00000_step_00022_16_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00022_26_a.png": [
+            "lnk_footer_contact"
+        ], 
+        "iter_00000_step_00022_7_a.png": [
+            "lnk_footer_team"
+        ], 
+        "iter_00000_step_00022_8_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00030_12_a.png": [
+            "lnk_sign_up"
+        ], 
+        "iter_00000_step_00033_12_a.png": [
+            "lnk_data_sheet"
+        ]
+    }, 
+    "screens": {}
+}

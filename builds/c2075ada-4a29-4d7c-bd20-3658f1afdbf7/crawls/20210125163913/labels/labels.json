@@ -1,0 +1,22 @@
+{
+    "elems": {
+        "iter_00000_step_00004_6_button.png": [
+            "btn_accept_cookies"
+        ], 
+        "iter_00000_step_00007_20_a.png": [
+            "mi_news"
+        ], 
+        "iter_00000_step_00008_31_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00012_1_a.png": [
+            "lnk_bg"
+        ], 
+        "iter_00000_step_00012_27_div.png": [], 
+        "iter_00000_step_00012_42_div.png": [], 
+        "iter_00000_step_00013_18_div.png": [
+            "div_sm_bg"
+        ]
+    }, 
+    "screens": {}
+}

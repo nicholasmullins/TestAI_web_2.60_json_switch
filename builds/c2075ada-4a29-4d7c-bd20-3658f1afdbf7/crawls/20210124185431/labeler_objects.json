@@ -1,0 +1,549 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_div.png": "iter_00000_step_00000_0_div.png", 
+            "iter_00000_step_00000_10_div.png": "iter_00000_step_00000_10_div.png", 
+            "iter_00000_step_00000_11_div.png": "iter_00000_step_00000_11_div.png", 
+            "iter_00000_step_00000_12_div.png": "iter_00000_step_00000_12_div.png", 
+            "iter_00000_step_00000_13_div.png": "iter_00000_step_00000_13_div.png", 
+            "iter_00000_step_00000_14_div.png": "iter_00000_step_00000_14_div.png", 
+            "iter_00000_step_00000_15_div.png": "iter_00000_step_00000_15_div.png", 
+            "iter_00000_step_00000_1_div.png": "iter_00000_step_00000_1_div.png", 
+            "iter_00000_step_00000_2_div.png": "iter_00000_step_00000_2_div.png", 
+            "iter_00000_step_00000_3_div.png": "iter_00000_step_00000_3_div.png", 
+            "iter_00000_step_00000_4_div.png": "iter_00000_step_00000_4_div.png", 
+            "iter_00000_step_00000_5_div.png": "iter_00000_step_00000_5_div.png", 
+            "iter_00000_step_00000_6_button.png": "iter_00000_step_00000_6_button.png", 
+            "iter_00000_step_00000_7_div.png": "iter_00000_step_00000_7_div.png", 
+            "iter_00000_step_00000_8_a.png": "iter_00000_step_00000_8_a.png", 
+            "iter_00000_step_00000_9_div.png": "iter_00000_step_00000_9_div.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "g+v7G8GLgogrDtdcnfWIKw==\n", 
+                    "height": 68, 
+                    "human_hash": "div_X1460_Y1350_W410_H68", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 410, 
+                    "x": 1460, 
+                    "y": 1350
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_10_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "SjgfOOw+lqU2/89u+jZCEA==\n", 
+                    "height": 102, 
+                    "human_hash": "div_X1666_Y208_W718_H102", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 718, 
+                    "x": 1666, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_11_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "A//bFyZRpzLR1Ts2JWib/A==\n", 
+                    "height": 76, 
+                    "human_hash": "div_X1460_Y208_W170_H76", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 170, 
+                    "x": 1460, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_12_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "/ZWBKD5O5ZIYsQq6SzojLQ==\n", 
+                    "height": 76, 
+                    "human_hash": "div_X30_Y1608_W2464_H76", 
+                    "tag_name": "div", 
+                    "text": "By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy policy for more information,", 
+                    "width": 2464, 
+                    "x": 30, 
+                    "y": 1608
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "By_using_this_website,_you_agree_to_our_use_of_cookies._We_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._Please_review_our_privacy_policy_for_more_information,"
+                ]
+            }, 
+            "iter_00000_step_00000_13_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "dp7aZeReEJz/VKefmKNnug==\n", 
+                    "height": 152, 
+                    "human_hash": "div_X0_Y1570_W3810_H152", 
+                    "tag_name": "div", 
+                    "text": "By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy policy for more information,", 
+                    "width": 3810, 
+                    "x": 0, 
+                    "y": 1570
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "By_using_this_website,_you_agree_to_our_use_of_cookies._We_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._Please_review_our_privacy_policy_for_more_information,"
+                ]
+            }, 
+            "iter_00000_step_00000_14_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "MCKPxYY+dhMUxq7HfiVoZA==\n", 
+                    "height": 102, 
+                    "human_hash": "div_X1426_Y1350_W478_H102", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 478, 
+                    "x": 1426, 
+                    "y": 1350
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_15_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_15_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "ha0yYBybroVCmNPLD4N64Q==\n", 
+                    "height": 890, 
+                    "human_hash": "div_X2382_Y208_W956_H890", 
+                    "tag_name": "div", 
+                    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                    "width": 956, 
+                    "x": 2382, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>"
+                ]
+            }, 
+            "iter_00000_step_00000_1_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_1_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "1LSNMxE8MpONdSZPIkuPuA==\n", 
+                    "height": 110, 
+                    "human_hash": "div_X1426_Y208_W238_H110", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 238, 
+                    "x": 1426, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_2_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_2_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "5BR3kBHqi6Gd1xYvL3i9rw==\n", 
+                    "height": 776, 
+                    "human_hash": "div_X506_Y208_W888_H776", 
+                    "tag_name": "div", 
+                    "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.", 
+                    "width": 888, 
+                    "x": 506, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy_Software_Test_Automation_Tools_with_test.aiAI_provides_the_speed_that_QA_teams_need_to_keep_up_with_DevOps_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale."
+                ]
+            }, 
+            "iter_00000_step_00000_3_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_3_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "28vFl4ipZ8cQyvCT7XcEDQ==\n", 
+                    "height": 1144, 
+                    "human_hash": "div_X352_Y80_W3108_H1144", 
+                    "tag_name": "div", 
+                    "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.\u00a0\u00a0\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    \n\n      \n\n      \n        \n          \n        \n        \n\n        \n          \n            \n          \n            <img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                    "width": 3108, 
+                    "x": 352, 
+                    "y": 80
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy_Software_Test_Automation_Tools_with_test.aiAI_provides_the_speed_that_QA_teams_need_to_keep_up_with_DevOps_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale.\u00a0\u00a0\n\n\n\n\n\n\n\n\n__\n\n____\n__\n____\n\n______\n\n______\n________\n__________\n________\n________\n\n________\n__________\n____________\n__________\n____________<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>"
+                ]
+            }, 
+            "iter_00000_step_00000_4_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_4_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "Mam5SkX3c0DS5iVaEL8hlg==\n", 
+                    "height": 810, 
+                    "human_hash": "div_X472_Y208_W956_H810", 
+                    "tag_name": "div", 
+                    "text": "Go Beyond Legacy Software Test Automation Tools with test.aiAI provides the speed that QA teams need to keep up with DevOps cycles and eliminates the need for tedious code creation, constant code maintenance, and problems with scale.", 
+                    "width": 956, 
+                    "x": 472, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy_Software_Test_Automation_Tools_with_test.aiAI_provides_the_speed_that_QA_teams_need_to_keep_up_with_DevOps_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale."
+                ]
+            }, 
+            "iter_00000_step_00000_5_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "R91PyTPHXdqTg3j0hI2Q6g==\n", 
+                    "height": 856, 
+                    "human_hash": "div_X2416_Y208_W888_H856", 
+                    "tag_name": "div", 
+                    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                    "width": 888, 
+                    "x": 2416, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>"
+                ]
+            }, 
+            "iter_00000_step_00000_6_button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_button.png"
+                ], 
+                "elem_info": {
+                    "class": "button", 
+                    "hash": "OLRwqXgOHyAaOXa+ei6wqA==\n", 
+                    "height": 72, 
+                    "human_hash": "button_X3676_Y1610_W84_H72", 
+                    "tag_name": "button", 
+                    "text": "", 
+                    "width": 84, 
+                    "x": 3676, 
+                    "y": 1610
+                }, 
+                "tags": [
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_7_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "iABBn8WYwfkUF+gJd2jtVA==\n", 
+                    "height": 112, 
+                    "human_hash": "div_X3656_Y1590_W124_H112", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 124, 
+                    "x": 3656, 
+                    "y": 1590
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_8_a.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_a.png"
+                ], 
+                "elem_info": {
+                    "class": "a", 
+                    "hash": "OVdTxyvwJy6BVBuDvNReWA==\n", 
+                    "height": 28, 
+                    "human_hash": "a_X2052_Y1632_W164_H28", 
+                    "tag_name": "a", 
+                    "text": "privacy policy", 
+                    "width": 164, 
+                    "x": 2052, 
+                    "y": 1632
+                }, 
+                "tags": [
+                    "a", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "privacy_policy"
+                ]
+            }, 
+            "iter_00000_step_00000_9_div.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_div.png"
+                ], 
+                "elem_info": {
+                    "class": "div", 
+                    "hash": "OHkcappdlwJAvbwQPG85OA==\n", 
+                    "height": 68, 
+                    "human_hash": "div_X1700_Y208_W650_H68", 
+                    "tag_name": "div", 
+                    "text": "", 
+                    "width": 650, 
+                    "x": 1700, 
+                    "y": 208
+                }, 
+                "tags": [
+                    "div", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_3_div.png", 
+            "iter_00000_step_00000_15_div.png", 
+            "iter_00000_step_00000_4_div.png", 
+            "iter_00000_step_00000_5_div.png", 
+            "iter_00000_step_00000_2_div.png", 
+            "iter_00000_step_00000_13_div.png", 
+            "iter_00000_step_00000_12_div.png", 
+            "iter_00000_step_00000_10_div.png", 
+            "iter_00000_step_00000_14_div.png", 
+            "iter_00000_step_00000_9_div.png", 
+            "iter_00000_step_00000_0_div.png", 
+            "iter_00000_step_00000_1_div.png", 
+            "iter_00000_step_00000_7_div.png", 
+            "iter_00000_step_00000_11_div.png", 
+            "iter_00000_step_00000_6_button.png", 
+            "iter_00000_step_00000_8_a.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_div.png": [
+                "iter_00000_step_00000_0_div.png"
+            ], 
+            "iter_00000_step_00000_10_div.png": [
+                "iter_00000_step_00000_10_div.png"
+            ], 
+            "iter_00000_step_00000_11_div.png": [
+                "iter_00000_step_00000_11_div.png"
+            ], 
+            "iter_00000_step_00000_12_div.png": [
+                "iter_00000_step_00000_12_div.png"
+            ], 
+            "iter_00000_step_00000_13_div.png": [
+                "iter_00000_step_00000_13_div.png"
+            ], 
+            "iter_00000_step_00000_14_div.png": [
+                "iter_00000_step_00000_14_div.png"
+            ], 
+            "iter_00000_step_00000_15_div.png": [
+                "iter_00000_step_00000_15_div.png"
+            ], 
+            "iter_00000_step_00000_1_div.png": [
+                "iter_00000_step_00000_1_div.png"
+            ], 
+            "iter_00000_step_00000_2_div.png": [
+                "iter_00000_step_00000_2_div.png"
+            ], 
+            "iter_00000_step_00000_3_div.png": [
+                "iter_00000_step_00000_3_div.png"
+            ], 
+            "iter_00000_step_00000_4_div.png": [
+                "iter_00000_step_00000_4_div.png"
+            ], 
+            "iter_00000_step_00000_5_div.png": [
+                "iter_00000_step_00000_5_div.png"
+            ], 
+            "iter_00000_step_00000_6_button.png": [
+                "iter_00000_step_00000_6_button.png"
+            ], 
+            "iter_00000_step_00000_7_div.png": [
+                "iter_00000_step_00000_7_div.png"
+            ], 
+            "iter_00000_step_00000_8_a.png": [
+                "iter_00000_step_00000_8_a.png"
+            ], 
+            "iter_00000_step_00000_9_div.png": [
+                "iter_00000_step_00000_9_div.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_div.png", 
+                "iter_00000_step_00000_1_div.png", 
+                "iter_00000_step_00000_2_div.png", 
+                "iter_00000_step_00000_3_div.png", 
+                "iter_00000_step_00000_4_div.png", 
+                "iter_00000_step_00000_5_div.png", 
+                "iter_00000_step_00000_6_button.png", 
+                "iter_00000_step_00000_7_div.png", 
+                "iter_00000_step_00000_8_a.png", 
+                "iter_00000_step_00000_9_div.png", 
+                "iter_00000_step_00000_10_div.png", 
+                "iter_00000_step_00000_11_div.png", 
+                "iter_00000_step_00000_12_div.png", 
+                "iter_00000_step_00000_13_div.png", 
+                "iter_00000_step_00000_14_div.png", 
+                "iter_00000_step_00000_15_div.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "a", 
+                    "div", 
+                    "button"
+                ], 
+                "text": [
+                    "", 
+                    "privacy_policy", 
+                    "<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-l5bv31s6ma8fz8wrpu5f/ke17zwdgbtoddi8pdm48kezs2srs3exhkyyday7gxevzw-zppgdn4juwvcje1zvwquxwkmyexglnqgp0ivtjzamwli2zvywh8k3-s_4yszcp2ryti0hqtoaauohri8pirnhrwwbcpl09oh6fnu7qgogotlecrqox5zuiknwavkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>", 
+                    "go_beyond_legacy_software_test_automation_tools_with_test.aiai_provides_the_speed_that_qa_teams_need_to_keep_up_with_devops_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale.", 
+                    "go_beyond_legacy_software_test_automation_tools_with_test.aiai_provides_the_speed_that_qa_teams_need_to_keep_up_with_devops_cycles_and_eliminates_the_need_for_tedious_code_creation,_constant_code_maintenance,_and_problems_with_scale.\u00a0\u00a0\n\n\n\n\n\n\n\n\n__\n\n____\n__\n____\n\n______\n\n______\n________\n__________\n________\n________\n\n________\n__________\n____________\n__________\n____________<img_src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-l5bv31s6ma8fz8wrpu5f/ke17zwdgbtoddi8pdm48kezs2srs3exhkyyday7gxevzw-zppgdn4juwvcje1zvwquxwkmyexglnqgp0ivtjzamwli2zvywh8k3-s_4yszcp2ryti0hqtoaauohri8pirnhrwwbcpl09oh6fnu7qgogotlecrqox5zuiknwavkg/person+and+robot+screens\"_alt=\"person_and_robot_screens\"_/>", 
+                    "by_using_this_website,_you_agree_to_our_use_of_cookies._we_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._please_review_our_privacy_policy_for_more_information,"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}

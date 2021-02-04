@@ -1,0 +1,41 @@
+{
+    "elems": {
+        "iter_00000_step_00001_0_android.widget.TextView.png": [
+            "lnk_ai_software_image"
+        ], 
+        "iter_00000_step_00001_10_android.widget.TextView.png": [
+            "lnk_fifty_image"
+        ], 
+        "iter_00000_step_00001_16_android.widget.TextView.png": [
+            "lnk_will_ai_image"
+        ], 
+        "iter_00000_step_00001_17_android.widget.Button.png": [
+            "lnk_will_ai_image"
+        ], 
+        "iter_00000_step_00001_18_android.widget.Button.png": [
+            "lnk_bg_image"
+        ], 
+        "iter_00000_step_00001_21_android.widget.Button.png": [
+            "lnk_why_ai_image"
+        ], 
+        "iter_00000_step_00001_2_android.widget.TextView.png": [
+            "lnk_will_ai_image"
+        ], 
+        "iter_00000_step_00001_5_android.widget.TextView.png": [
+            "lnk_why_ai_image"
+        ], 
+        "iter_00000_step_00001_7_android.widget.TextView.png": [
+            "lnk_ai_software_image"
+        ], 
+        "iter_00000_step_00002_21_android.widget.Image.png": [
+            "lnk_becoming_image"
+        ], 
+        "iter_00000_step_00002_30_android.widget.TextView.png": [
+            "lnk_will_ai_image"
+        ], 
+        "iter_00000_step_00002_4_android.widget.TextView.png": [
+            "lnk_intro_image"
+        ]
+    }, 
+    "screens": {}
+}

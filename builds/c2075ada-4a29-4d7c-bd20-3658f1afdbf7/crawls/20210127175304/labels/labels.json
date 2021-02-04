@@ -1,0 +1,42 @@
+{
+    "elems": {
+        "iter_00000_step_00000_8_button.png": [
+            "btn_accept_cookies"
+        ], 
+        "iter_00000_step_00010_17_div.png": [
+            "div_sm_two"
+        ], 
+        "iter_00000_step_00010_26_div.png": [
+            "div_sm_test_ai_raises"
+        ], 
+        "iter_00000_step_00010_28_a.png": [
+            "lnk_two"
+        ], 
+        "iter_00000_step_00018_15_a.png": [
+            "lnk_intro"
+        ], 
+        "iter_00000_step_00018_21_div.png": [
+            "div_sm_test_ai_raises"
+        ], 
+        "iter_00000_step_00018_7_a.png": [], 
+        "iter_00000_step_00029_0_a.png": [
+            "lnk_two"
+        ], 
+        "iter_00000_step_00029_16_a.png": [
+            "lnk_future_software"
+        ], 
+        "iter_00000_step_00029_20_div.png": [
+            "div_sm_art_int_software"
+        ], 
+        "iter_00000_step_00029_21_a.png": [
+            "lnk_becoming"
+        ], 
+        "iter_00000_step_00029_30_a.png": [
+            "lnk_art_int_software"
+        ], 
+        "iter_00000_step_00029_9_div.png": [
+            "div_sm_two"
+        ]
+    }, 
+    "screens": {}
+}

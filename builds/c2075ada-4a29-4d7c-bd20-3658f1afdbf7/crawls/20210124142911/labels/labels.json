@@ -1,0 +1,29 @@
+{
+    "elems": {
+        "iter_00000_step_00013_36_h1.png": [
+            "ttl_intro"
+        ], 
+        "iter_00000_step_00015_83_button.png": [
+            "btn_raises_accept_cookies"
+        ], 
+        "iter_00000_step_00015_87_div.png": [
+            "ttl_test_ai_raises"
+        ], 
+        "iter_00000_step_00017_32_h1.png": [
+            "ttl_two"
+        ], 
+        "iter_00000_step_00019_5_h1.png": [
+            "ttl_art_int_software"
+        ], 
+        "iter_00000_step_00021_71_h1.png": [
+            "ttl_future_software"
+        ], 
+        "iter_00000_step_00022_2_button.png": [
+            "btn_close_aws_becoming"
+        ], 
+        "iter_00000_step_00024_69_h1.png": [
+            "ttl_becoming"
+        ]
+    }, 
+    "screens": {}
+}

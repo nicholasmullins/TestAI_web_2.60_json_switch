@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00002_25_a.png": [
+            "lnk_fitness_study"
+        ], 
+        "iter_00000_step_00002_3_a.png": [
+            "lnk_games_study"
+        ], 
+        "iter_00000_step_00004_11_a.png": [
+            "lnk_app_store_study"
+        ], 
+        "iter_00000_step_00004_18_a.png": [
+            "lnk_software_study"
+        ], 
+        "iter_00000_step_00004_20_a.png": [
+            "lnk_transportation_study"
+        ], 
+        "iter_00000_step_00005_16_a.png": [
+            "lnk_high_tech_study"
+        ]
+    }, 
+    "screens": {}
+}

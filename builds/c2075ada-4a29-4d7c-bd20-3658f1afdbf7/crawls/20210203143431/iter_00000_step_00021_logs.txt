@@ -1,0 +1,1 @@
+[{u'level': u'WARNING', u'message': u"deprecation 0 Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", u'timestamp': 1612396012753L}]

@@ -1,0 +1,2777 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "YEHB91ztLUN/9UUVXcKMzw==\n", 
+            "height": 1722, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W3840_H1722", 
+            "index": -1, 
+            "is_transformed": true, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 3840, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "swipe_up", 
+        "text": "swipe_up"
+    }, 
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "AfLZHuQv14uxp40/srfYKQ==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X1608_Y1130_W592_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 296, 
+                    "x": 804, 
+                    "xPercent": 42.178477690288716, 
+                    "y": 565, 
+                    "yPercent": 12.425775236419618
+                }, 
+                "location": {
+                    "x": 804, 
+                    "y": 565
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 296
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 592, 
+            "x": 1608, 
+            "y": 1130
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "md+FwO2CDC0CgoondeqZcw==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "tr_X856_Y1130_W2098_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgb(255, 255, 255)", 
+                    "class": "tr", 
+                    "color": "rgb(255, 255, 255)", 
+                    "columns": [
+                        "Features", 
+                        "Personal", 
+                        "Professional"
+                    ], 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "AI Test Creator", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Test Execution", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Visual Reporting", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Parallelization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Unlimited Machines", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Report Syncronization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Platforms", 
+                            "iOS, Android, Web", 
+                            "ALL"
+                        ], 
+                        [
+                            "Apps", 
+                            "1", 
+                            "+2"
+                        ], 
+                        [
+                            "All training data private", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Support", 
+                            "Community", 
+                            "Premium test.ai Support"
+                        ], 
+                        [
+                            "License", 
+                            "Sign Up Now", 
+                            "Contact Sales"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "AI Test Execution\n\u2713\n\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1049, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 565, 
+                    "yPercent": 12.425775236419618
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 565
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 1049
+                }, 
+                "tag_name": "tr", 
+                "text": "AI Test Execution\n\u2713\n\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "AI Test Execution\n\u2713\n\u2713", 
+            "transformed": true, 
+            "width": 2098, 
+            "x": 856, 
+            "y": 1130
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "li", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "UfdIIEm4pV0Ouyk/KK9U+Q==\n", 
+            "height": 62, 
+            "hier_level": 0, 
+            "human_hash": "li_X2258_Y18_W1048_H62", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "li", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 14, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 31, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "li", 
+                    "text": "View test.ai\u2019s test results and other collected data", 
+                    "type": "", 
+                    "value": 0, 
+                    "width": 524, 
+                    "x": 1129, 
+                    "xPercent": 59.26427165354331, 
+                    "y": 9, 
+                    "yPercent": 0.20514899934022435
+                }, 
+                "location": {
+                    "x": 1129, 
+                    "y": 9
+                }, 
+                "size": {
+                    "height": 31, 
+                    "width": 524
+                }, 
+                "tag_name": "li", 
+                "text": "View test.ai\u2019s test results and other collected data"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "li", 
+            "text": "View test.ai\u2019s test results and other collected data", 
+            "transformed": true, 
+            "width": 1048, 
+            "x": 2258, 
+            "y": 18
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "tfdLPNKtaaA5cxQZTZzD8g==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X856_Y1236_W752_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "features"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "features", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "700", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "AI Visual Reporting", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 376, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 618, 
+                    "yPercent": 13.591378931163403
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 618
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 376
+                }, 
+                "tag_name": "td", 
+                "text": "AI Visual Reporting"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "AI Visual Reporting", 
+            "transformed": true, 
+            "width": 752, 
+            "x": 856, 
+            "y": 1236
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "Ic5Yml1Xu6QkuB2V5/uPSA==\n", 
+            "height": 236, 
+            "hier_level": 0, 
+            "human_hash": "div_X856_Y592_W2100_H236", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sqs-block-content"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "sqs-block-content", 
+                    "domLevel": 12, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 118, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Personal or ProfessionalFree is great, but sometimes you need more", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1050, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 296, 
+                    "yPercent": 6.50978667253134
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 296
+                }, 
+                "size": {
+                    "height": 118, 
+                    "width": 1050
+                }, 
+                "tag_name": "div", 
+                "text": "Personal or ProfessionalFree is great, but sometimes you need more"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Personal or ProfessionalFree is great, but sometimes you need more", 
+            "transformed": true, 
+            "width": 2100, 
+            "x": 856, 
+            "y": 592
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "mU9pOjwYdiCFeXIiF9lBUw==\n", 
+            "height": 128, 
+            "hier_level": 0, 
+            "human_hash": "tr_X856_Y896_W2098_H128", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(255, 255, 255)", 
+                    "columns": [
+                        "Features", 
+                        "Personal", 
+                        "Professional"
+                    ], 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 64, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "AI Test Creator", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Test Execution", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Visual Reporting", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Parallelization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Unlimited Machines", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Report Syncronization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Platforms", 
+                            "iOS, Android, Web", 
+                            "ALL"
+                        ], 
+                        [
+                            "Apps", 
+                            "1", 
+                            "+2"
+                        ], 
+                        [
+                            "All training data private", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Support", 
+                            "Community", 
+                            "Premium test.ai Support"
+                        ], 
+                        [
+                            "License", 
+                            "Sign Up Now", 
+                            "Contact Sales"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Features\nPersonal\nProfessional", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1049, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 448, 
+                    "yPercent": 9.852650098966352
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 448
+                }, 
+                "size": {
+                    "height": 64, 
+                    "width": 1049
+                }, 
+                "tag_name": "tr", 
+                "text": "Features\nPersonal\nProfessional"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Features\nPersonal\nProfessional", 
+            "transformed": true, 
+            "width": 2098, 
+            "x": 856, 
+            "y": 896
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "QLQLvkdnBLUlFoc9cwHk/g==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "tr_X856_Y1448_W2098_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(255, 255, 255)", 
+                    "columns": [
+                        "Features", 
+                        "Personal", 
+                        "Professional"
+                    ], 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "AI Test Creator", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Test Execution", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Visual Reporting", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Parallelization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Unlimited Machines", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Report Syncronization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Platforms", 
+                            "iOS, Android, Web", 
+                            "ALL"
+                        ], 
+                        [
+                            "Apps", 
+                            "1", 
+                            "+2"
+                        ], 
+                        [
+                            "All training data private", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Support", 
+                            "Community", 
+                            "Premium test.ai Support"
+                        ], 
+                        [
+                            "License", 
+                            "Sign Up Now", 
+                            "Contact Sales"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Unlimited Machines\n\n\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1049, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 724, 
+                    "yPercent": 15.922586320650979
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 724
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 1049
+                }, 
+                "tag_name": "tr", 
+                "text": "Unlimited Machines\n\n\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Unlimited Machines\n\n\u2713", 
+            "transformed": true, 
+            "width": 2098, 
+            "x": 856, 
+            "y": 1448
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "eWJ7tmoibpev2KjL6KuSww==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X1608_Y1024_W592_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 296, 
+                    "x": 804, 
+                    "xPercent": 42.178477690288716, 
+                    "y": 512, 
+                    "yPercent": 11.26017154167583
+                }, 
+                "location": {
+                    "x": 804, 
+                    "y": 512
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 296
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 592, 
+            "x": 1608, 
+            "y": 1024
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "+0rmUdRcfRbmIPA8b4zlvw==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "tr_X856_Y1024_W2098_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(255, 255, 255)", 
+                    "columns": [
+                        "Features", 
+                        "Personal", 
+                        "Professional"
+                    ], 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "AI Test Creator", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Test Execution", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Visual Reporting", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Parallelization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Unlimited Machines", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Report Syncronization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Platforms", 
+                            "iOS, Android, Web", 
+                            "ALL"
+                        ], 
+                        [
+                            "Apps", 
+                            "1", 
+                            "+2"
+                        ], 
+                        [
+                            "All training data private", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Support", 
+                            "Community", 
+                            "Premium test.ai Support"
+                        ], 
+                        [
+                            "License", 
+                            "Sign Up Now", 
+                            "Contact Sales"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "AI Test Creator\n\u2713\n\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1049, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 512, 
+                    "yPercent": 11.26017154167583
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 512
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 1049
+                }, 
+                "tag_name": "tr", 
+                "text": "AI Test Creator\n\u2713\n\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "AI Test Creator\n\u2713\n\u2713", 
+            "transformed": true, 
+            "width": 2098, 
+            "x": 856, 
+            "y": 1024
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "uuS97i1r9DKszV0Ci5bRzg==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X2200_Y1448_W754_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 377, 
+                    "x": 1100, 
+                    "xPercent": 57.716535433070874, 
+                    "y": 724, 
+                    "yPercent": 15.922586320650979
+                }, 
+                "location": {
+                    "x": 1100, 
+                    "y": 724
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 377
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 754, 
+            "x": 2200, 
+            "y": 1448
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "OZ8AyOwUXUndYCBwxuy+JA==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X2200_Y1342_W754_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 377, 
+                    "x": 1100, 
+                    "xPercent": 57.716535433070874, 
+                    "y": 671, 
+                    "yPercent": 14.756982625907192
+                }, 
+                "location": {
+                    "x": 1100, 
+                    "y": 671
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 377
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 754, 
+            "x": 2200, 
+            "y": 1342
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "CSVeQs15WHfNVdSNbDiQGw==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X1608_Y1448_W592_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 296, 
+                    "x": 804, 
+                    "xPercent": 42.178477690288716, 
+                    "y": 724, 
+                    "yPercent": 15.922586320650979
+                }, 
+                "location": {
+                    "x": 804, 
+                    "y": 724
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 296
+                }, 
+                "tag_name": "td", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "", 
+            "transformed": true, 
+            "width": 592, 
+            "x": 1608, 
+            "y": 1448
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "QrdApfrTX0jbCSCzIoFM/g==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X2200_Y1024_W754_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 377, 
+                    "x": 1100, 
+                    "xPercent": 57.716535433070874, 
+                    "y": 512, 
+                    "yPercent": 11.26017154167583
+                }, 
+                "location": {
+                    "x": 1100, 
+                    "y": 512
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 377
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 754, 
+            "x": 2200, 
+            "y": 1024
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "CxCeR+eCTBq0nhvfCeA9Xg==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "tr_X856_Y1554_W2098_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgb(255, 255, 255)", 
+                    "class": "tr", 
+                    "color": "rgb(255, 255, 255)", 
+                    "columns": [
+                        "Features", 
+                        "Personal", 
+                        "Professional"
+                    ], 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "AI Test Creator", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Test Execution", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Visual Reporting", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Parallelization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Unlimited Machines", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Report Syncronization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Platforms", 
+                            "iOS, Android, Web", 
+                            "ALL"
+                        ], 
+                        [
+                            "Apps", 
+                            "1", 
+                            "+2"
+                        ], 
+                        [
+                            "All training data private", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Support", 
+                            "Community", 
+                            "Premium test.ai Support"
+                        ], 
+                        [
+                            "License", 
+                            "Sign Up Now", 
+                            "Contact Sales"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Report Syncronization\n\n\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1049, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 777, 
+                    "yPercent": 17.088190015394765
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 777
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 1049
+                }, 
+                "tag_name": "tr", 
+                "text": "Report Syncronization\n\n\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Report Syncronization\n\n\u2713", 
+            "transformed": true, 
+            "width": 2098, 
+            "x": 856, 
+            "y": 1554
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "ubF7cIsDbT2igXn54nggTw==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X856_Y1130_W752_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "features"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "features", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "700", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "AI Test Execution", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 376, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 565, 
+                    "yPercent": 12.425775236419618
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 565
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 376
+                }, 
+                "tag_name": "td", 
+                "text": "AI Test Execution"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "AI Test Execution", 
+            "transformed": true, 
+            "width": 752, 
+            "x": 856, 
+            "y": 1130
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "9KqaxAasUl8o/gYYw9nPjQ==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X1608_Y1236_W592_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 296, 
+                    "x": 804, 
+                    "xPercent": 42.178477690288716, 
+                    "y": 618, 
+                    "yPercent": 13.591378931163403
+                }, 
+                "location": {
+                    "x": 804, 
+                    "y": 618
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 296
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 592, 
+            "x": 1608, 
+            "y": 1236
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "6/eDdLFFcB2OanfUZCzFww==\n", 
+            "height": 136, 
+            "hier_level": 0, 
+            "human_hash": "div_X472_Y26_W1434_H136", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sqs-block spacer-block sqs-block-spacer sized vsize-1", 
+                        "data-block-type": "21", 
+                        "id": "block-78b853aa2b72e2e7f9c9"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "sqs-block spacer-block sqs-block-spacer sized vsize-1", 
+                    "domLevel": 11, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 68, 
+                    "identifier": "block-78b853aa2b72e2e7f9c9", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 717, 
+                    "x": 236, 
+                    "xPercent": 12.36220472440945, 
+                    "y": 13, 
+                    "yPercent": 0.2845282603914669
+                }, 
+                "location": {
+                    "x": 236, 
+                    "y": 13
+                }, 
+                "size": {
+                    "height": 68, 
+                    "width": 717
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 1434, 
+            "x": 472, 
+            "y": 26
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "JIrq7aywhsQSyjSY+QHeUw==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X1608_Y1342_W592_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 296, 
+                    "x": 804, 
+                    "xPercent": 42.178477690288716, 
+                    "y": 671, 
+                    "yPercent": 14.756982625907192
+                }, 
+                "location": {
+                    "x": 804, 
+                    "y": 671
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 296
+                }, 
+                "tag_name": "td", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "", 
+            "transformed": true, 
+            "width": 592, 
+            "x": 1608, 
+            "y": 1342
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "AXVLCLJVU1z79BonK8ahTw==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X856_Y1342_W752_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "features"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "features", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "700", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "Parallelization", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 376, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 671, 
+                    "yPercent": 14.756982625907192
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 671
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 376
+                }, 
+                "tag_name": "td", 
+                "text": "Parallelization"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "Parallelization", 
+            "transformed": true, 
+            "width": 752, 
+            "x": 856, 
+            "y": 1342
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "KZ6o+0gvQ0JHZupnpnzmlg==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X1608_Y1554_W592_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 296, 
+                    "x": 804, 
+                    "xPercent": 42.178477690288716, 
+                    "y": 777, 
+                    "yPercent": 17.088190015394765
+                }, 
+                "location": {
+                    "x": 804, 
+                    "y": 777
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 296
+                }, 
+                "tag_name": "td", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "", 
+            "transformed": true, 
+            "width": 592, 
+            "x": 1608, 
+            "y": 1554
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "ULCVxb0dPbbcUl1NL+jz0A==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X856_Y1448_W752_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "features"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "features", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "700", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "Unlimited Machines", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 376, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 724, 
+                    "yPercent": 15.922586320650979
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 724
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 376
+                }, 
+                "tag_name": "td", 
+                "text": "Unlimited Machines"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "Unlimited Machines", 
+            "transformed": true, 
+            "width": 752, 
+            "x": 856, 
+            "y": 1448
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "0uVa/UD/muoqXehKp18YSQ==\n", 
+            "height": 68, 
+            "hier_level": 0, 
+            "human_hash": "div_X506_Y60_W1366_H68", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sqs-block-content"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "sqs-block-content", 
+                    "domLevel": 12, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 34, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 683, 
+                    "x": 253, 
+                    "xPercent": 13.254593175853019, 
+                    "y": 30, 
+                    "yPercent": 0.6584011436111722
+                }, 
+                "location": {
+                    "x": 253, 
+                    "y": 30
+                }, 
+                "size": {
+                    "height": 34, 
+                    "width": 683
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 1366, 
+            "x": 506, 
+            "y": 60
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "lmGT+ABg991oTso1ZemYHQ==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "tr_X856_Y1342_W2098_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgb(255, 255, 255)", 
+                    "class": "tr", 
+                    "color": "rgb(255, 255, 255)", 
+                    "columns": [
+                        "Features", 
+                        "Personal", 
+                        "Professional"
+                    ], 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "AI Test Creator", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Test Execution", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Visual Reporting", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Parallelization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Unlimited Machines", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Report Syncronization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Platforms", 
+                            "iOS, Android, Web", 
+                            "ALL"
+                        ], 
+                        [
+                            "Apps", 
+                            "1", 
+                            "+2"
+                        ], 
+                        [
+                            "All training data private", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Support", 
+                            "Community", 
+                            "Premium test.ai Support"
+                        ], 
+                        [
+                            "License", 
+                            "Sign Up Now", 
+                            "Contact Sales"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Parallelization\n\n\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1049, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 671, 
+                    "yPercent": 14.756982625907192
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 671
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 1049
+                }, 
+                "tag_name": "tr", 
+                "text": "Parallelization\n\n\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Parallelization\n\n\u2713", 
+            "transformed": true, 
+            "width": 2098, 
+            "x": 856, 
+            "y": 1342
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "h3", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "dMHDoDCh2uEYJlCv8pa86w==\n", 
+            "height": 92, 
+            "hier_level": 0, 
+            "human_hash": "h3_X856_Y592_W2100_H92", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "preSlide slideIn", 
+                        "style": "text-align: center; white-space: pre-wrap; transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.32459s;"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "h3", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "preSlide slideIn", 
+                    "domLevel": 13, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Montserrat", 
+                    "font-weight": "700", 
+                    "fontSize": 35.2, 
+                    "height": 46, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "h3", 
+                    "text": "Personal or Professional", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1050, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 296, 
+                    "yPercent": 6.50978667253134
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 296
+                }, 
+                "size": {
+                    "height": 46, 
+                    "width": 1050
+                }, 
+                "tag_name": "h3", 
+                "text": "Personal or Professional"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "h3", 
+            "text": "Personal or Professional", 
+            "transformed": true, 
+            "width": 2100, 
+            "x": 856, 
+            "y": 592
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "0+Jq/iRps4i9J2jddjmcwA==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X856_Y1554_W752_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "features"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "features", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "700", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "Report Syncronization", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 376, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 777, 
+                    "yPercent": 17.088190015394765
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 777
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 376
+                }, 
+                "tag_name": "td", 
+                "text": "Report Syncronization"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "Report Syncronization", 
+            "transformed": true, 
+            "width": 752, 
+            "x": 856, 
+            "y": 1554
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "KtYlifKKwAlYd8MDCPxOiA==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X2200_Y1554_W754_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 377, 
+                    "x": 1100, 
+                    "xPercent": 57.716535433070874, 
+                    "y": 777, 
+                    "yPercent": 17.088190015394765
+                }, 
+                "location": {
+                    "x": 1100, 
+                    "y": 777
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 377
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 754, 
+            "x": 2200, 
+            "y": 1554
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "IMmKziINH/V388/GEesSEQ==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X2200_Y1236_W754_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 377, 
+                    "x": 1100, 
+                    "xPercent": 57.716535433070874, 
+                    "y": 618, 
+                    "yPercent": 13.591378931163403
+                }, 
+                "location": {
+                    "x": 1100, 
+                    "y": 618
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 377
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 754, 
+            "x": 2200, 
+            "y": 1236
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "ELOPwybf+EhAiICJRH4oVw==\n", 
+            "height": 270, 
+            "hier_level": 0, 
+            "human_hash": "div_X822_Y592_W2168_H270", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sqs-block html-block sqs-block-html", 
+                        "data-block-type": "2", 
+                        "id": "block-16c0c654c20ce04b75a4"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "sqs-block html-block sqs-block-html", 
+                    "domLevel": 11, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 135, 
+                    "identifier": "block-16c0c654c20ce04b75a4", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Personal or ProfessionalFree is great, but sometimes you need more", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1084, 
+                    "x": 411, 
+                    "xPercent": 21.548556430446194, 
+                    "y": 296, 
+                    "yPercent": 6.50978667253134
+                }, 
+                "location": {
+                    "x": 411, 
+                    "y": 296
+                }, 
+                "size": {
+                    "height": 135, 
+                    "width": 1084
+                }, 
+                "tag_name": "div", 
+                "text": "Personal or ProfessionalFree is great, but sometimes you need more"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Personal or ProfessionalFree is great, but sometimes you need more", 
+            "transformed": true, 
+            "width": 2168, 
+            "x": 822, 
+            "y": 592
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "li", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "beUGKcG8sZcuSYrMFpVNEg==\n", 
+            "height": 62, 
+            "hier_level": 0, 
+            "human_hash": "li_X2258_Y98_W1048_H62", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "li", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 14, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 31, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "li", 
+                    "text": "Voila! Success!", 
+                    "type": "", 
+                    "value": 0, 
+                    "width": 524, 
+                    "x": 1129, 
+                    "xPercent": 59.26427165354331, 
+                    "y": 49, 
+                    "yPercent": 1.0803826698922367
+                }, 
+                "location": {
+                    "x": 1129, 
+                    "y": 49
+                }, 
+                "size": {
+                    "height": 31, 
+                    "width": 524
+                }, 
+                "tag_name": "li", 
+                "text": "Voila! Success!"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "li", 
+            "text": "Voila! Success!", 
+            "transformed": true, 
+            "width": 1048, 
+            "x": 2258, 
+            "y": 98
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "7exCfNd07YWgr+0dTcNt3g==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X856_Y1024_W752_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "features"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "cssClass": "features", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "700", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "AI Test Creator", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 376, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 512, 
+                    "yPercent": 11.26017154167583
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 512
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 376
+                }, 
+                "tag_name": "td", 
+                "text": "AI Test Creator"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "AI Test Creator", 
+            "transformed": true, 
+            "width": 752, 
+            "x": 856, 
+            "y": 1024
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "qLhoIIhiQbkbZzqB6P1Bbg==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "tr_X856_Y1236_W2098_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(255, 255, 255)", 
+                    "columns": [
+                        "Features", 
+                        "Personal", 
+                        "Professional"
+                    ], 
+                    "domLevel": 15, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 17.6, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "AI Test Creator", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Test Execution", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "AI Visual Reporting", 
+                            "\u2713", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Parallelization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Unlimited Machines", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Report Syncronization", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Platforms", 
+                            "iOS, Android, Web", 
+                            "ALL"
+                        ], 
+                        [
+                            "Apps", 
+                            "1", 
+                            "+2"
+                        ], 
+                        [
+                            "All training data private", 
+                            "", 
+                            "\u2713"
+                        ], 
+                        [
+                            "Support", 
+                            "Community", 
+                            "Premium test.ai Support"
+                        ], 
+                        [
+                            "License", 
+                            "Sign Up Now", 
+                            "Contact Sales"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "AI Visual Reporting\n\u2713\n\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1049, 
+                    "x": 428, 
+                    "xPercent": 22.440944881889763, 
+                    "y": 618, 
+                    "yPercent": 13.591378931163403
+                }, 
+                "location": {
+                    "x": 428, 
+                    "y": 618
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 1049
+                }, 
+                "tag_name": "tr", 
+                "text": "AI Visual Reporting\n\u2713\n\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "AI Visual Reporting\n\u2713\n\u2713", 
+            "transformed": true, 
+            "width": 2098, 
+            "x": 856, 
+            "y": 1236
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "QHFvx3maOvrYFTwUoBvawA==\n", 
+            "height": 106, 
+            "hier_level": 0, 
+            "human_hash": "td_X2200_Y1130_W754_H106", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "options"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(44, 38, 200)", 
+                    "cssClass": "options", 
+                    "domLevel": 16, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "ibm-plex-sans", 
+                    "font-weight": "400", 
+                    "fontSize": 18, 
+                    "height": 53, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "\u2713", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 377, 
+                    "x": 1100, 
+                    "xPercent": 57.716535433070874, 
+                    "y": 565, 
+                    "yPercent": 12.425775236419618
+                }, 
+                "location": {
+                    "x": 1100, 
+                    "y": 565
+                }, 
+                "size": {
+                    "height": 53, 
+                    "width": 377
+                }, 
+                "tag_name": "td", 
+                "text": "\u2713"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "\u2713", 
+            "transformed": true, 
+            "width": 754, 
+            "x": 2200, 
+            "y": 1130
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": false, 
+    "timing": 0
+}

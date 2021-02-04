@@ -1,0 +1,11 @@
+{
+    "elems": {
+        "iter_00000_step_00009_0_div.png": [
+            "div_bg"
+        ], 
+        "iter_00000_step_00009_3_button.png": [
+            "btn_bg_with_permission"
+        ]
+    }, 
+    "screens": {}
+}

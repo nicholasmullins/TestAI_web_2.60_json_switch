@@ -1,0 +1,18 @@
+{
+    "elems": {
+        "iter_00000_step_00002_2_button.png": [
+            "btn_accept_cookies"
+        ], 
+        "iter_00000_step_00002_39_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00005_11_a.png": [], 
+        "iter_00000_step_00005_1_a.png": [
+            "lnk_bg"
+        ], 
+        "iter_00000_step_00005_37_div.png": [
+            "lnk_contact"
+        ]
+    }, 
+    "screens": {}
+}

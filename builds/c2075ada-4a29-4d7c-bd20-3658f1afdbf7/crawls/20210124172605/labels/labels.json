@@ -1,0 +1,26 @@
+{
+    "elems": {
+        "iter_00000_step_00012_34_div.png": [
+            "ttl_will_bots"
+        ], 
+        "iter_00000_step_00014_23_h1.png": [
+            "ttl_future_testing"
+        ], 
+        "iter_00000_step_00016_11_button.png": [
+            "btn_tb_continue"
+        ], 
+        "iter_00000_step_00016_35_div.png": [
+            "ttl_test_automation"
+        ], 
+        "iter_00000_step_00016_47_button.png": [
+            "btn_tb_no_thanks"
+        ], 
+        "iter_00000_step_00017_74_h1.png": [
+            "ttl_new_era"
+        ], 
+        "iter_00000_step_00018_40_a.png": [
+            "btn_new_era_agree_cookies"
+        ]
+    }, 
+    "screens": {}
+}

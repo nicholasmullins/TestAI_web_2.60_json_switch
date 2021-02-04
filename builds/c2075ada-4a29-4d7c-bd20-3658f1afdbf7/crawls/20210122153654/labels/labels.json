@@ -1,0 +1,26 @@
+{
+    "elems": {
+        "iter_00000_step_00003_30_a.png": [
+            "lnk_eurostar"
+        ], 
+        "iter_00000_step_00005_11_a.png": [
+            "icn_footer_youtube"
+        ], 
+        "iter_00000_step_00005_18_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00005_23_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00005_26_div.png": [
+            "icn_footer_home"
+        ], 
+        "iter_00000_step_00005_28_svg.png": [
+            "icn_footer_linkedin"
+        ], 
+        "iter_00000_step_00005_35_div.png": [
+            "icn_footer_home"
+        ]
+    }, 
+    "screens": {}
+}

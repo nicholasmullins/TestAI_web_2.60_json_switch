@@ -1,0 +1,1 @@
+[{u'level': u'SEVERE', u'message': u'https://techbeacon.com/app-dev-testing/contributors/kohsuke-kawaguchi - Failed to load resource: the server responded with a status of 404 ()', u'timestamp': 1611514384814L}, {u'level': u'SEVERE', u'message': u'javascript 4:102 Uncaught ReferenceError: drift is not defined', u'timestamp': 1611514385417L}]

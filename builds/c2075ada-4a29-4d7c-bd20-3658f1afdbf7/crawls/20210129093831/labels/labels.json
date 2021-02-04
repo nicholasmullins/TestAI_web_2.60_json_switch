@@ -1,0 +1,83 @@
+{
+    "elems": {
+        "iter_00000_step_00001_35_img.png": [
+            "img_hustef_logo"
+        ], 
+        "iter_00000_step_00009_11_h3.png": [
+            "txt_agile"
+        ], 
+        "iter_00000_step_00009_17_div.png": [
+            "div_sm_agile"
+        ], 
+        "iter_00000_step_00009_26_div.png": [
+            "div_agile"
+        ], 
+        "iter_00000_step_00009_28_a.png": [
+            "lnk_agile"
+        ], 
+        "iter_00000_step_00012_11_a.png": [
+            "lnk_footer_contact"
+        ], 
+        "iter_00000_step_00012_14_a.png": [
+            "icn_footer_youtube"
+        ], 
+        "iter_00000_step_00012_19_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00012_22_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00012_2_svg.png": [
+            "icn_footer_linkedin"
+        ], 
+        "iter_00000_step_00012_33_a.png": [
+            "lnk_footer_team"
+        ], 
+        "iter_00000_step_00017_10_a.png": [
+            "lnk_we_build"
+        ], 
+        "iter_00000_step_00021_5_a.png": [
+            "btn_demo_home"
+        ], 
+        "iter_00000_step_00023_10_a.png": [
+            "lnk_industries_we_serve"
+        ], 
+        "iter_00000_step_00026_5_a.png": [
+            "lnk_in_the_news"
+        ], 
+        "iter_00000_step_00027_12_a.png": [
+            "lnk_footer_contact"
+        ], 
+        "iter_00000_step_00028_10_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00028_11_a.png": [
+            "lnk_in_the_news"
+        ], 
+        "iter_00000_step_00028_29_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00028_30_a.png": [
+            "lnk_announcing_otd"
+        ], 
+        "iter_00000_step_00028_33_a.png": [
+            "lnk_footer_team"
+        ], 
+        "iter_00000_step_00028_3_a.png": [
+            "lnk_rise_testops"
+        ], 
+        "iter_00000_step_00028_40_a.png": [
+            "lnk_best_apps"
+        ], 
+        "iter_00000_step_00028_8_div.png": [
+            "icn_footer_home"
+        ], 
+        "iter_00000_step_00031_0_h1.png": [
+            "ttl_best_apps"
+        ], 
+        "iter_00000_step_00032_23_h1.png": [
+            "ttl_rise_testops"
+        ]
+    }, 
+    "screens": {}
+}

@@ -1,0 +1,3084 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.Image.png": "iter_00000_step_00000_0_android.widget.Image.png", 
+            "iter_00000_step_00000_10_android.widget.TextView.png": "iter_00000_step_00000_10_android.widget.TextView.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png": "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_12_android.widget.Image.png": "iter_00000_step_00000_12_android.widget.Image.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png": "iter_00000_step_00000_13_android.widget.TextView.png", 
+            "iter_00000_step_00000_14_android.widget.TextView.png": "iter_00000_step_00000_14_android.widget.TextView.png", 
+            "iter_00000_step_00000_1_android.widget.Image.png": "iter_00000_step_00000_1_android.widget.Image.png", 
+            "iter_00000_step_00000_2_android.widget.TextView.png": "iter_00000_step_00000_2_android.widget.TextView.png", 
+            "iter_00000_step_00000_3_android.widget.TextView.png": "iter_00000_step_00000_3_android.widget.TextView.png", 
+            "iter_00000_step_00000_4_android.widget.TextView.png": "iter_00000_step_00000_4_android.widget.TextView.png", 
+            "iter_00000_step_00000_5_android.widget.Image.png": "iter_00000_step_00000_5_android.widget.Image.png", 
+            "iter_00000_step_00000_6_android.widget.Image.png": "iter_00000_step_00000_6_android.widget.Image.png", 
+            "iter_00000_step_00000_7_android.widget.TextView.png": "iter_00000_step_00000_7_android.widget.TextView.png", 
+            "iter_00000_step_00000_8_android.widget.Image.png": "iter_00000_step_00000_8_android.widget.Image.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png": "iter_00000_step_00000_9_android.widget.TextView.png", 
+            "iter_00000_step_00001_0_android.widget.TextView.png": "iter_00000_step_00002_0_android.widget.TextView.png", 
+            "iter_00000_step_00001_10_android.widget.TextView.png": "iter_00000_step_00002_10_android.widget.TextView.png", 
+            "iter_00000_step_00001_11_android.widget.TextView.png": "iter_00000_step_00002_11_android.widget.TextView.png", 
+            "iter_00000_step_00001_12_android.widget.TextView.png": "iter_00000_step_00002_12_android.widget.TextView.png", 
+            "iter_00000_step_00001_13_android.widget.TextView.png": "iter_00000_step_00002_13_android.widget.TextView.png", 
+            "iter_00000_step_00001_14_android.widget.TextView.png": "iter_00000_step_00002_14_android.widget.TextView.png", 
+            "iter_00000_step_00001_15_android.widget.TextView.png": "iter_00000_step_00002_15_android.widget.TextView.png", 
+            "iter_00000_step_00001_16_android.widget.TextView.png": "iter_00000_step_00002_16_android.widget.TextView.png", 
+            "iter_00000_step_00001_17_android.widget.TextView.png": "iter_00000_step_00002_17_android.widget.TextView.png", 
+            "iter_00000_step_00001_18_android.widget.TextView.png": "iter_00000_step_00002_18_android.widget.TextView.png", 
+            "iter_00000_step_00001_19_android.widget.TextView.png": "iter_00000_step_00002_19_android.widget.TextView.png", 
+            "iter_00000_step_00001_1_android.widget.TextView.png": "iter_00000_step_00002_1_android.widget.TextView.png", 
+            "iter_00000_step_00001_20_android.widget.Image.png": "iter_00000_step_00002_20_android.widget.Image.png", 
+            "iter_00000_step_00001_2_android.widget.TextView.png": "iter_00000_step_00002_2_android.widget.TextView.png", 
+            "iter_00000_step_00001_3_android.widget.TextView.png": "iter_00000_step_00002_3_android.widget.TextView.png", 
+            "iter_00000_step_00001_4_android.widget.TextView.png": "iter_00000_step_00002_4_android.widget.TextView.png", 
+            "iter_00000_step_00001_5_android.widget.TextView.png": "iter_00000_step_00002_5_android.widget.TextView.png", 
+            "iter_00000_step_00001_6_android.widget.TextView.png": "iter_00000_step_00002_6_android.widget.TextView.png", 
+            "iter_00000_step_00001_7_android.widget.TextView.png": "iter_00000_step_00002_7_android.widget.TextView.png", 
+            "iter_00000_step_00001_8_android.widget.TextView.png": "iter_00000_step_00002_8_android.widget.TextView.png", 
+            "iter_00000_step_00001_9_android.widget.TextView.png": "iter_00000_step_00002_9_android.widget.TextView.png", 
+            "iter_00000_step_00002_0_android.widget.TextView.png": "iter_00000_step_00002_0_android.widget.TextView.png", 
+            "iter_00000_step_00002_10_android.widget.TextView.png": "iter_00000_step_00002_10_android.widget.TextView.png", 
+            "iter_00000_step_00002_11_android.widget.TextView.png": "iter_00000_step_00002_11_android.widget.TextView.png", 
+            "iter_00000_step_00002_12_android.widget.TextView.png": "iter_00000_step_00002_12_android.widget.TextView.png", 
+            "iter_00000_step_00002_13_android.widget.TextView.png": "iter_00000_step_00002_13_android.widget.TextView.png", 
+            "iter_00000_step_00002_14_android.widget.TextView.png": "iter_00000_step_00002_14_android.widget.TextView.png", 
+            "iter_00000_step_00002_15_android.widget.TextView.png": "iter_00000_step_00002_15_android.widget.TextView.png", 
+            "iter_00000_step_00002_16_android.widget.TextView.png": "iter_00000_step_00002_16_android.widget.TextView.png", 
+            "iter_00000_step_00002_17_android.widget.TextView.png": "iter_00000_step_00002_17_android.widget.TextView.png", 
+            "iter_00000_step_00002_18_android.widget.TextView.png": "iter_00000_step_00002_18_android.widget.TextView.png", 
+            "iter_00000_step_00002_19_android.widget.TextView.png": "iter_00000_step_00002_19_android.widget.TextView.png", 
+            "iter_00000_step_00002_1_android.widget.TextView.png": "iter_00000_step_00002_1_android.widget.TextView.png", 
+            "iter_00000_step_00002_20_android.widget.Image.png": "iter_00000_step_00002_20_android.widget.Image.png", 
+            "iter_00000_step_00002_2_android.widget.TextView.png": "iter_00000_step_00002_2_android.widget.TextView.png", 
+            "iter_00000_step_00002_3_android.widget.TextView.png": "iter_00000_step_00002_3_android.widget.TextView.png", 
+            "iter_00000_step_00002_4_android.widget.TextView.png": "iter_00000_step_00002_4_android.widget.TextView.png", 
+            "iter_00000_step_00002_5_android.widget.TextView.png": "iter_00000_step_00002_5_android.widget.TextView.png", 
+            "iter_00000_step_00002_6_android.widget.TextView.png": "iter_00000_step_00002_6_android.widget.TextView.png", 
+            "iter_00000_step_00002_7_android.widget.TextView.png": "iter_00000_step_00002_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_8_android.widget.TextView.png": "iter_00000_step_00002_8_android.widget.TextView.png", 
+            "iter_00000_step_00002_9_android.widget.TextView.png": "iter_00000_step_00002_9_android.widget.TextView.png", 
+            "iter_00000_step_00003_0_android.widget.Image.png": "iter_00000_step_00004_0_android.widget.Image.png", 
+            "iter_00000_step_00003_10_android.widget.TextView.png": "iter_00000_step_00004_10_android.widget.TextView.png", 
+            "iter_00000_step_00003_11_android.widget.TextView.png": "iter_00000_step_00004_11_android.widget.TextView.png", 
+            "iter_00000_step_00003_12_android.widget.Image.png": "iter_00000_step_00004_12_android.widget.Image.png", 
+            "iter_00000_step_00003_13_android.widget.Image.png": "iter_00000_step_00004_13_android.widget.Image.png", 
+            "iter_00000_step_00003_14_android.widget.TextView.png": "iter_00000_step_00004_14_android.widget.TextView.png", 
+            "iter_00000_step_00003_15_android.widget.TextView.png": "iter_00000_step_00004_15_android.widget.TextView.png", 
+            "iter_00000_step_00003_16_android.widget.TextView.png": "iter_00000_step_00004_16_android.widget.TextView.png", 
+            "iter_00000_step_00003_17_android.widget.TextView.png": "iter_00000_step_00004_17_android.widget.TextView.png", 
+            "iter_00000_step_00003_18_android.widget.TextView.png": "iter_00000_step_00004_18_android.widget.TextView.png", 
+            "iter_00000_step_00003_19_android.widget.TextView.png": "iter_00000_step_00004_19_android.widget.TextView.png", 
+            "iter_00000_step_00003_1_android.widget.TextView.png": "iter_00000_step_00004_1_android.widget.TextView.png", 
+            "iter_00000_step_00003_20_android.widget.TextView.png": "iter_00000_step_00004_20_android.widget.TextView.png", 
+            "iter_00000_step_00003_21_android.widget.TextView.png": "iter_00000_step_00004_21_android.widget.TextView.png", 
+            "iter_00000_step_00003_22_android.widget.TextView.png": "iter_00000_step_00004_22_android.widget.TextView.png", 
+            "iter_00000_step_00003_23_android.widget.TextView.png": "iter_00000_step_00004_23_android.widget.TextView.png", 
+            "iter_00000_step_00003_24_android.widget.TextView.png": "iter_00000_step_00004_24_android.widget.TextView.png", 
+            "iter_00000_step_00003_25_android.widget.TextView.png": "iter_00000_step_00004_25_android.widget.TextView.png", 
+            "iter_00000_step_00003_26_android.widget.Image.png": "iter_00000_step_00004_26_android.widget.Image.png", 
+            "iter_00000_step_00003_27_android.widget.TextView.png": "iter_00000_step_00004_27_android.widget.TextView.png", 
+            "iter_00000_step_00003_28_android.widget.TextView.png": "iter_00000_step_00004_28_android.widget.TextView.png", 
+            "iter_00000_step_00003_29_android.widget.TextView.png": "iter_00000_step_00004_29_android.widget.TextView.png", 
+            "iter_00000_step_00003_2_android.widget.TextView.png": "iter_00000_step_00004_2_android.widget.TextView.png", 
+            "iter_00000_step_00003_3_android.widget.TextView.png": "iter_00000_step_00004_3_android.widget.TextView.png", 
+            "iter_00000_step_00003_4_android.widget.TextView.png": "iter_00000_step_00004_4_android.widget.TextView.png", 
+            "iter_00000_step_00003_5_android.widget.TextView.png": "iter_00000_step_00004_5_android.widget.TextView.png", 
+            "iter_00000_step_00003_6_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00003_7_android.widget.TextView.png": "iter_00000_step_00004_7_android.widget.TextView.png", 
+            "iter_00000_step_00003_8_android.widget.TextView.png": "iter_00000_step_00004_8_android.widget.TextView.png", 
+            "iter_00000_step_00003_9_android.widget.TextView.png": "iter_00000_step_00004_9_android.widget.TextView.png", 
+            "iter_00000_step_00004_0_android.widget.Image.png": "iter_00000_step_00004_0_android.widget.Image.png", 
+            "iter_00000_step_00004_10_android.widget.TextView.png": "iter_00000_step_00004_10_android.widget.TextView.png", 
+            "iter_00000_step_00004_11_android.widget.TextView.png": "iter_00000_step_00004_11_android.widget.TextView.png", 
+            "iter_00000_step_00004_12_android.widget.Image.png": "iter_00000_step_00004_12_android.widget.Image.png", 
+            "iter_00000_step_00004_13_android.widget.Image.png": "iter_00000_step_00004_13_android.widget.Image.png", 
+            "iter_00000_step_00004_14_android.widget.TextView.png": "iter_00000_step_00004_14_android.widget.TextView.png", 
+            "iter_00000_step_00004_15_android.widget.TextView.png": "iter_00000_step_00004_15_android.widget.TextView.png", 
+            "iter_00000_step_00004_16_android.widget.TextView.png": "iter_00000_step_00004_16_android.widget.TextView.png", 
+            "iter_00000_step_00004_17_android.widget.TextView.png": "iter_00000_step_00004_17_android.widget.TextView.png", 
+            "iter_00000_step_00004_18_android.widget.TextView.png": "iter_00000_step_00004_18_android.widget.TextView.png", 
+            "iter_00000_step_00004_19_android.widget.TextView.png": "iter_00000_step_00004_19_android.widget.TextView.png", 
+            "iter_00000_step_00004_1_android.widget.TextView.png": "iter_00000_step_00004_1_android.widget.TextView.png", 
+            "iter_00000_step_00004_20_android.widget.TextView.png": "iter_00000_step_00004_20_android.widget.TextView.png", 
+            "iter_00000_step_00004_21_android.widget.TextView.png": "iter_00000_step_00004_21_android.widget.TextView.png", 
+            "iter_00000_step_00004_22_android.widget.TextView.png": "iter_00000_step_00004_22_android.widget.TextView.png", 
+            "iter_00000_step_00004_23_android.widget.TextView.png": "iter_00000_step_00004_23_android.widget.TextView.png", 
+            "iter_00000_step_00004_24_android.widget.TextView.png": "iter_00000_step_00004_24_android.widget.TextView.png", 
+            "iter_00000_step_00004_25_android.widget.TextView.png": "iter_00000_step_00004_25_android.widget.TextView.png", 
+            "iter_00000_step_00004_26_android.widget.Image.png": "iter_00000_step_00004_26_android.widget.Image.png", 
+            "iter_00000_step_00004_27_android.widget.TextView.png": "iter_00000_step_00004_27_android.widget.TextView.png", 
+            "iter_00000_step_00004_28_android.widget.TextView.png": "iter_00000_step_00004_28_android.widget.TextView.png", 
+            "iter_00000_step_00004_29_android.widget.TextView.png": "iter_00000_step_00004_29_android.widget.TextView.png", 
+            "iter_00000_step_00004_2_android.widget.TextView.png": "iter_00000_step_00004_2_android.widget.TextView.png", 
+            "iter_00000_step_00004_3_android.widget.TextView.png": "iter_00000_step_00004_3_android.widget.TextView.png", 
+            "iter_00000_step_00004_4_android.widget.TextView.png": "iter_00000_step_00004_4_android.widget.TextView.png", 
+            "iter_00000_step_00004_5_android.widget.TextView.png": "iter_00000_step_00004_5_android.widget.TextView.png", 
+            "iter_00000_step_00004_6_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00004_7_android.widget.TextView.png": "iter_00000_step_00004_7_android.widget.TextView.png", 
+            "iter_00000_step_00004_8_android.widget.TextView.png": "iter_00000_step_00004_8_android.widget.TextView.png", 
+            "iter_00000_step_00004_9_android.widget.TextView.png": "iter_00000_step_00004_9_android.widget.TextView.png", 
+            "iter_00000_step_00005_0_android.widget.TextView.png": "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00005_10_android.widget.TextView.png": "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00005_11_android.widget.TextView.png": "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00005_12_android.widget.TextView.png": "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00005_13_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00005_14_android.widget.TextView.png": "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00005_15_android.widget.Button.png": "iter_00000_step_00005_15_android.widget.Button.png", 
+            "iter_00000_step_00005_16_android.widget.TextView.png": "iter_00000_step_00005_16_android.widget.TextView.png", 
+            "iter_00000_step_00005_17_android.widget.TextView.png": "iter_00000_step_00005_17_android.widget.TextView.png", 
+            "iter_00000_step_00005_1_android.widget.TextView.png": "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00005_2_android.widget.TextView.png": "iter_00000_step_00005_2_android.widget.TextView.png", 
+            "iter_00000_step_00005_3_android.widget.TextView.png": "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00005_4_android.widget.TextView.png": "iter_00000_step_00005_4_android.widget.TextView.png", 
+            "iter_00000_step_00005_5_android.widget.TextView.png": "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00005_6_android.widget.TextView.png": "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00005_7_android.widget.TextView.png": "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00005_8_android.widget.Image.png": "iter_00000_step_00005_8_android.widget.Image.png", 
+            "iter_00000_step_00005_9_android.widget.TextView.png": "iter_00000_step_00005_9_android.widget.TextView.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "tvUn4Xp566s/mm581EQ8Qg==\n", 
+                    "height": 91, 
+                    "human_hash": "android.widget.Image_X3338_Y116_W319_H91", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 319, 
+                    "x": 3338, 
+                    "y": 116
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_10_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Uy/2vdxRI4dJF0Ai5vEz2g==\n", 
+                    "height": 104, 
+                    "human_hash": "android.widget.TextView_X492_Y465_W891_H104", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Go Beyond Legacy", 
+                    "width": 891, 
+                    "x": 492, 
+                    "y": 465
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy"
+                ]
+            }, 
+            "iter_00000_step_00000_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "jmxbcgu4V9oIDdpXqznGlQ==\n", 
+                    "height": 36, 
+                    "human_hash": "android.widget.TextView_X518_Y1001_W852_H36", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI provides the speed that QA teams need to keep up", 
+                    "width": 852, 
+                    "x": 518, 
+                    "y": 1001
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_provides_the_speed_that_QA_teams_need_to_keep_up"
+                ]
+            }, 
+            "iter_00000_step_00000_12_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "vcLOE8VHe6lH3btfKV06xg==\n", 
+                    "height": 113, 
+                    "human_hash": "android.widget.Image_X2740_Y507_W267_H113", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 267, 
+                    "x": 2740, 
+                    "y": 507
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "CSoLHNIQuiQWRmoajMqdFg==\n", 
+                    "height": 34, 
+                    "human_hash": "android.widget.TextView_X103_Y1638_W2396_H34", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "sing this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy_policy for more information,", 
+                    "width": 2396, 
+                    "x": 103, 
+                    "y": 1638
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._We_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._Please_review_our_privacy_policy_for_more_information,"
+                ]
+            }, 
+            "iter_00000_step_00000_14_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "tW1P8+s7SbLH5gROFHb/Dw==\n", 
+                    "height": 33, 
+                    "human_hash": "android.widget.TextView_X514_Y1065_W872_H33", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with DevOps cycles and eliminates the need for tedious", 
+                    "width": 872, 
+                    "x": 514, 
+                    "y": 1065
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_DevOps_cycles_and_eliminates_the_need_for_tedious"
+                ]
+            }, 
+            "iter_00000_step_00000_1_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_1_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "q9V9vWqh+RiMvLZJMZ85iQ==\n", 
+                    "height": 83, 
+                    "human_hash": "android.widget.Image_X220_Y116_W360_H83", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 360, 
+                    "x": 220, 
+                    "y": 116
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_2_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_2_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "viVfoGkSU3DNseKQsVCYTg==\n", 
+                    "height": 40, 
+                    "human_hash": "android.widget.TextView_X2225_Y145_W1036_H40", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "oduct Industries Company Events Careers Contact", 
+                    "width": 1036, 
+                    "x": 2225, 
+                    "y": 145
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "oduct_Industries_Company_Events_Careers_Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "0ovIM40umWh5G45CdFcmaw==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X3145_Y148_W128_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Contact", 
+                    "width": 128, 
+                    "x": 3145, 
+                    "y": 148
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Contact"
+                ]
+            }, 
+            "iter_00000_step_00000_4_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_4_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "cNpCPRak8IznHl2nYntkUA==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X500_Y1126_W749_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "code creation, constant code maintenance, and", 
+                    "width": 749, 
+                    "x": 500, 
+                    "y": 1126
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "code_creation,_constant_code_maintenance,_and"
+                ]
+            }, 
+            "iter_00000_step_00000_5_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "3v268m0kMKvmN8RanBrsWA==\n", 
+                    "height": 1077, 
+                    "human_hash": "android.widget.Image_X2244_Y349_W1326_H1077", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 1326, 
+                    "x": 2244, 
+                    "y": 349
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_6_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "/fffGNV1mN2UF7J8rNn3Sw==\n", 
+                    "height": 81, 
+                    "human_hash": "android.widget.Image_X491_Y582_W671_H81", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 671, 
+                    "x": 491, 
+                    "y": 582
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "rcxUykJ9IKtsTGN08ZJvpw==\n", 
+                    "height": 28, 
+                    "human_hash": "android.widget.TextView_X507_Y1192_W317_H28", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "problems with scale.", 
+                    "width": 317, 
+                    "x": 507, 
+                    "y": 1192
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "problems_with_scale."
+                ]
+            }, 
+            "iter_00000_step_00000_8_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "ZQdeLotcI0vA56bq2SUsQg==\n", 
+                    "height": 83, 
+                    "human_hash": "android.widget.Image_X506_Y693_W831_H83", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 831, 
+                    "x": 506, 
+                    "y": 693
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "kGHXzllUAjk+Wh5rSowsLw==\n", 
+                    "height": 88, 
+                    "human_hash": "android.widget.TextView_X489_Y808_W544_H88", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with test.ai", 
+                    "width": 544, 
+                    "x": 489, 
+                    "y": 808
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_test.ai"
+                ]
+            }, 
+            "iter_00000_step_00002_0_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_0_android.widget.TextView.png", 
+                    "iter_00000_step_00001_0_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "xuUMcuFWusqMDFWqviPezA==\n", 
+                    "height": 44, 
+                    "human_hash": "android.widget.TextView_X884_Y1501_W601_H44", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "n Interview with Jason Arbor", 
+                    "width": 601, 
+                    "x": 884, 
+                    "y": 1501
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "n_Interview_with_Jason_Arbor"
+                ]
+            }, 
+            "iter_00000_step_00002_10_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_10_android.widget.TextView.png", 
+                    "iter_00000_step_00001_10_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "UtCbsIzMs3XlvOj5snDSlg==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X2329_Y1434_W584_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "rrived. Here's why robots rul", 
+                    "width": 584, 
+                    "x": 2329, 
+                    "y": 1434
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "rrived._Here's_why_robots_rul"
+                ]
+            }, 
+            "iter_00000_step_00002_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_11_android.widget.TextView.png", 
+                    "iter_00000_step_00001_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Wfvwv3iFBeQDVHqz+9MoQA==\n", 
+                    "height": 34, 
+                    "human_hash": "android.widget.TextView_X109_Y1638_W2387_H34", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "sing this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy_policy for more information,", 
+                    "width": 2387, 
+                    "x": 109, 
+                    "y": 1638
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._We_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._Please_review_our_privacy_policy_for_more_information,"
+                ]
+            }, 
+            "iter_00000_step_00002_12_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_12_android.widget.TextView.png", 
+                    "iter_00000_step_00001_12_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "hFSt0z00n9P6CR8OA698ZA==\n", 
+                    "height": 51, 
+                    "human_hash": "android.widget.TextView_X2312_Y1342_W529_H51", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI in software testing has", 
+                    "width": 529, 
+                    "x": 2312, 
+                    "y": 1342
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_in_software_testing_has"
+                ]
+            }, 
+            "iter_00000_step_00002_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_13_android.widget.TextView.png", 
+                    "iter_00000_step_00001_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "JBnNgUpaAfjP2QuzvMChfw==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X2292_Y1079_W393_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "technative.io | Sept 02, 2019", 
+                    "width": 393, 
+                    "x": 2292, 
+                    "y": 1079
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "technative.io_|_Sept_02,_2019"
+                ]
+            }, 
+            "iter_00000_step_00002_14_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_14_android.widget.TextView.png", 
+                    "iter_00000_step_00001_14_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "KbNBMDeKzLCdLkmK0zBdkw==\n", 
+                    "height": 36, 
+                    "human_hash": "android.widget.TextView_X1566_Y1524_W467_H36", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Security Boulevard | Jun 20, 2019", 
+                    "width": 467, 
+                    "x": 1566, 
+                    "y": 1524
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Security_Boulevard_|_Jun_20,_2019"
+                ]
+            }, 
+            "iter_00000_step_00002_15_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_15_android.widget.TextView.png", 
+                    "iter_00000_step_00001_15_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "csPeaSFFfSofSzAGfCuagg==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X3375_Y148_W241_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Request a Demo", 
+                    "width": 241, 
+                    "x": 3375, 
+                    "y": 148
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Request_a_Demo"
+                ]
+            }, 
+            "iter_00000_step_00002_16_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_16_android.widget.TextView.png", 
+                    "iter_00000_step_00001_16_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "2W0hPKELlE0bt+WvtmNlxw==\n", 
+                    "height": 41, 
+                    "human_hash": "android.widget.TextView_X2258_Y144_W984_H41", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "luct Industries Company Events Careers Contac", 
+                    "width": 984, 
+                    "x": 2258, 
+                    "y": 144
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "luct_Industries_Company_Events_Careers_Contac"
+                ]
+            }, 
+            "iter_00000_step_00002_17_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_17_android.widget.TextView.png", 
+                    "iter_00000_step_00001_17_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "bV0zYhY/rMAhAcmPnkENXQ==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X1569_Y999_W383_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "techcentral.ie | Nov 8, 2019", 
+                    "width": 383, 
+                    "x": 1569, 
+                    "y": 999
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "techcentral.ie_|_Nov_8,_2019"
+                ]
+            }, 
+            "iter_00000_step_00002_18_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_18_android.widget.TextView.png", 
+                    "iter_00000_step_00001_18_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "7Ou8h6K/xMD4LK2yQemUTA==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X1574_Y1434_W186_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Podcasts", 
+                    "width": 186, 
+                    "x": 1574, 
+                    "y": 1434
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Podcasts"
+                ]
+            }, 
+            "iter_00000_step_00002_19_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_19_android.widget.TextView.png", 
+                    "iter_00000_step_00001_19_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "cKO8HnVNMBGcx6PrxNYU+w==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X839_Y1079_W403_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Business Post | Oct 10, 2020", 
+                    "width": 403, 
+                    "x": 839, 
+                    "y": 1079
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Business_Post_|_Oct_10,_2020"
+                ]
+            }, 
+            "iter_00000_step_00002_1_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_1_android.widget.TextView.png", 
+                    "iter_00000_step_00001_1_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "UR/yK6BsLjO8llz0jjCgUg==\n", 
+                    "height": 49, 
+                    "human_hash": "android.widget.TextView_X2323_Y894_W601_H49", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Vhy AI and Machine Learning", 
+                    "width": 601, 
+                    "x": 2323, 
+                    "y": 894
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Vhy_AI_and_Machine_Learning"
+                ]
+            }, 
+            "iter_00000_step_00002_20_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_20_android.widget.Image.png", 
+                    "iter_00000_step_00001_20_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "IJBd3tMla0EX0JdYPFa8LA==\n", 
+                    "height": 82, 
+                    "human_hash": "android.widget.Image_X216_Y117_W364_H82", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 364, 
+                    "x": 216, 
+                    "y": 117
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00002_2_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_2_android.widget.TextView.png", 
+                    "iter_00000_step_00001_2_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "fm9UFx0p+49yVYlbH08zkg==\n", 
+                    "height": 36, 
+                    "human_hash": "android.widget.TextView_X2301_Y1521_W527_H36", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Search Quality Software | April 19, 2018", 
+                    "width": 527, 
+                    "x": 2301, 
+                    "y": 1521
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Search_Quality_Software_|_April_19,_2018"
+                ]
+            }, 
+            "iter_00000_step_00002_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_3_android.widget.TextView.png", 
+                    "iter_00000_step_00001_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "qANO3F1L0eEHfAEhL2ioRQ==\n", 
+                    "height": 46, 
+                    "human_hash": "android.widget.TextView_X870_Y1346_W584_H46", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Will AI and Machine Learning", 
+                    "width": 584, 
+                    "x": 870, 
+                    "y": 1346
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Will_AI_and_Machine_Learning"
+                ]
+            }, 
+            "iter_00000_step_00002_4_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_4_android.widget.TextView.png", 
+                    "iter_00000_step_00001_4_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "GRw1b1ouxci90rJvzFe2Ig==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X3144_Y149_W130_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Contact", 
+                    "width": 130, 
+                    "x": 3144, 
+                    "y": 149
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Contact"
+                ]
+            }, 
+            "iter_00000_step_00002_5_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_5_android.widget.TextView.png", 
+                    "iter_00000_step_00001_5_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "15/2ttX9C/XgfjuvMaLYAw==\n", 
+                    "height": 39, 
+                    "human_hash": "android.widget.TextView_X2316_Y980_W603_H39", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "vill Redefine Software Testing", 
+                    "width": 603, 
+                    "x": 2316, 
+                    "y": 980
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "vill_Redefine_Software_Testing"
+                ]
+            }, 
+            "iter_00000_step_00002_6_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_6_android.widget.TextView.png", 
+                    "iter_00000_step_00001_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "gRGsmZ2B0jeMMReizIHPXw==\n", 
+                    "height": 46, 
+                    "human_hash": "android.widget.TextView_X853_Y1426_W589_H46", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Take Over Software Testing?", 
+                    "width": 589, 
+                    "x": 853, 
+                    "y": 1426
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Take_Over_Software_Testing?"
+                ]
+            }, 
+            "iter_00000_step_00002_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_7_android.widget.TextView.png", 
+                    "iter_00000_step_00001_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "oLWJ8PKXWs39vHCyL6emAw==\n", 
+                    "height": 36, 
+                    "human_hash": "android.widget.TextView_X857_Y897_W553_H36", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Bridging the gap between F", 
+                    "width": 553, 
+                    "x": 857, 
+                    "y": 897
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Bridging_the_gap_between_F"
+                ]
+            }, 
+            "iter_00000_step_00002_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_8_android.widget.TextView.png", 
+                    "iter_00000_step_00001_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Bn3Zuoe2B+fSTBKOAcyFwA==\n", 
+                    "height": 35, 
+                    "human_hash": "android.widget.TextView_X852_Y984_W282_H35", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "use and value", 
+                    "width": 282, 
+                    "x": 852, 
+                    "y": 984
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "use_and_value"
+                ]
+            }, 
+            "iter_00000_step_00002_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00002_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00002_9_android.widget.TextView.png", 
+                    "iter_00000_step_00001_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "ybmPzicKj0euHeso92cXew==\n", 
+                    "height": 68, 
+                    "human_hash": "android.widget.TextView_X844_Y582_W711_H68", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Test.ai in the News", 
+                    "width": 711, 
+                    "x": 844, 
+                    "y": 582
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Test.ai_in_the_News"
+                ]
+            }, 
+            "iter_00000_step_00004_0_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_0_android.widget.Image.png", 
+                    "iter_00000_step_00003_0_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "xBqrtZ6BiZmmLCBGkDbR2A==\n", 
+                    "height": 49, 
+                    "human_hash": "android.widget.Image_X857_Y217_W608_H49", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 608, 
+                    "x": 857, 
+                    "y": 217
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_10_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_10_android.widget.TextView.png", 
+                    "iter_00000_step_00003_10_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "/FvxIj09VhWKBq+VdmUesQ==\n", 
+                    "height": 45, 
+                    "human_hash": "android.widget.TextView_X1591_Y670_W683_H45", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "The Future of Software Testing", 
+                    "width": 683, 
+                    "x": 1591, 
+                    "y": 670
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "The_Future_of_Software_Testing"
+                ]
+            }, 
+            "iter_00000_step_00004_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_11_android.widget.TextView.png", 
+                    "iter_00000_step_00003_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "j2HAVnFJIaGr9tFAASk8zQ==\n", 
+                    "height": 36, 
+                    "human_hash": "android.widget.TextView_X1618_Y1201_W619_H36", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "SQA takeaways: Why testers", 
+                    "width": 619, 
+                    "x": 1618, 
+                    "y": 1201
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "SQA_takeaways:_Why_testers"
+                ]
+            }, 
+            "iter_00000_step_00004_12_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_12_android.widget.Image.png", 
+                    "iter_00000_step_00003_12_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "YXFb9W4MA8KxKm0p3pqmRw==\n", 
+                    "height": 54, 
+                    "human_hash": "android.widget.Image_X2307_Y1276_W473_H54", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 473, 
+                    "x": 2307, 
+                    "y": 1276
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_13_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_13_android.widget.Image.png", 
+                    "iter_00000_step_00003_13_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "boB7BvV4oSBljQ5fehKtiw==\n", 
+                    "height": 49, 
+                    "human_hash": "android.widget.Image_X839_Y668_W505_H49", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 505, 
+                    "x": 839, 
+                    "y": 668
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_14_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_14_android.widget.TextView.png", 
+                    "iter_00000_step_00003_14_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "oU6YaZbZKNH8GTTbXsjSTQ==\n", 
+                    "height": 41, 
+                    "human_hash": "android.widget.TextView_X1583_Y749_W515_H41", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with AI: An Interview wit", 
+                    "width": 515, 
+                    "x": 1583, 
+                    "y": 749
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_AI:_An_Interview_wit"
+                ]
+            }, 
+            "iter_00000_step_00004_15_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_15_android.widget.TextView.png", 
+                    "iter_00000_step_00003_15_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "2P2HjcthD2t8T0EuBru8mg==\n", 
+                    "height": 29, 
+                    "human_hash": "android.widget.TextView_X857_Y322_W617_H29", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "STP Software Test Professionals | Jan 24, 2019", 
+                    "width": 617, 
+                    "x": 857, 
+                    "y": 322
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "STP_Software_Test_Professionals_|_Jan_24,_2019"
+                ]
+            }, 
+            "iter_00000_step_00004_16_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_16_android.widget.TextView.png", 
+                    "iter_00000_step_00003_16_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "BZEG+ahUGtA0v9cmcHGamA==\n", 
+                    "height": 42, 
+                    "human_hash": "android.widget.TextView_X2311_Y832_W342_H42", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "software testing", 
+                    "width": 342, 
+                    "x": 2311, 
+                    "y": 832
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "software_testing"
+                ]
+            }, 
+            "iter_00000_step_00004_17_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_17_android.widget.TextView.png", 
+                    "iter_00000_step_00003_17_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "d4VlGl53P0ciloJ4D2mliQ==\n", 
+                    "height": 47, 
+                    "human_hash": "android.widget.TextView_X843_Y669_W502_H47", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Artificial intelligence in", 
+                    "width": 502, 
+                    "x": 843, 
+                    "y": 669
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Artificial_intelligence_in"
+                ]
+            }, 
+            "iter_00000_step_00004_18_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_18_android.widget.TextView.png", 
+                    "iter_00000_step_00003_18_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "kZ8OdkfA9xRKu4q8/IrNhA==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X831_Y1377_W191_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "ech Beacon", 
+                    "width": 191, 
+                    "x": 831, 
+                    "y": 1377
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "ech_Beacon"
+                ]
+            }, 
+            "iter_00000_step_00004_19_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_19_android.widget.TextView.png", 
+                    "iter_00000_step_00003_19_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "NuYaw6IoCcfvo44BccdflQ==\n", 
+                    "height": 43, 
+                    "human_hash": "android.widget.TextView_X853_Y1198_W536_H43", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI in testing: 13 essential", 
+                    "width": 536, 
+                    "x": 853, 
+                    "y": 1198
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_in_testing:_13_essential"
+                ]
+            }, 
+            "iter_00000_step_00004_1_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_1_android.widget.TextView.png", 
+                    "iter_00000_step_00003_1_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "zHbF3TpRciGOjMwVOLnyrg==\n", 
+                    "height": 35, 
+                    "human_hash": "android.widget.TextView_X2304_Y399_W331_H35", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Test Guild | May 13, 2018", 
+                    "width": 331, 
+                    "x": 2304, 
+                    "y": 399
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Test_Guild_|_May_13,_2018"
+                ]
+            }, 
+            "iter_00000_step_00004_20_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_20_android.widget.TextView.png", 
+                    "iter_00000_step_00003_20_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "BaZ0jEqntSr14MdXJ2N/mw==\n", 
+                    "height": 38, 
+                    "human_hash": "android.widget.TextView_X2291_Y1274_W499_H38", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "for Quality Engineering", 
+                    "width": 499, 
+                    "x": 2291, 
+                    "y": 1274
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "for_Quality_Engineering"
+                ]
+            }, 
+            "iter_00000_step_00004_21_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_21_android.widget.TextView.png", 
+                    "iter_00000_step_00003_21_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "vpenWiCUJYAVgF5AbQhkbg==\n", 
+                    "height": 39, 
+                    "human_hash": "android.widget.TextView_X2302_Y929_W445_H39", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Analytics India Mag | Jan 05, 2017", 
+                    "width": 445, 
+                    "x": 2302, 
+                    "y": 929
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Analytics_India_Mag_|_Jan_05,_2017"
+                ]
+            }, 
+            "iter_00000_step_00004_22_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_22_android.widget.TextView.png", 
+                    "iter_00000_step_00003_22_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "SnoS9lTaXYWZ16XYnclfag==\n", 
+                    "height": 51, 
+                    "human_hash": "android.widget.TextView_X1553_Y1276_W580_H51", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "need AI, more for QA pros", 
+                    "width": 580, 
+                    "x": 1553, 
+                    "y": 1276
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "need_AI,_more_for_QA_pros"
+                ]
+            }, 
+            "iter_00000_step_00004_23_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_23_android.widget.TextView.png", 
+                    "iter_00000_step_00003_23_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Y9hhg2kVaxBSCtXAJ0SZyw==\n", 
+                    "height": 39, 
+                    "human_hash": "android.widget.TextView_X2292_Y301_W600_H39", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Verification with Jason Arbor", 
+                    "width": 600, 
+                    "x": 2292, 
+                    "y": 301
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Verification_with_Jason_Arbor"
+                ]
+            }, 
+            "iter_00000_step_00004_24_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_24_android.widget.TextView.png", 
+                    "iter_00000_step_00003_24_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "UQwdGMUfMnSR4FcVra2z4Q==\n", 
+                    "height": 41, 
+                    "human_hash": "android.widget.TextView_X2276_Y1197_W624_H41", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Transforming Testing: A Reci", 
+                    "width": 624, 
+                    "x": 2276, 
+                    "y": 1197
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Transforming_Testing:_A_Reci"
+                ]
+            }, 
+            "iter_00000_step_00004_25_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_25_android.widget.TextView.png", 
+                    "iter_00000_step_00003_25_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Q3gL4P2N0bbJzBARzOUpcg==\n", 
+                    "height": 50, 
+                    "human_hash": "android.widget.TextView_X1564_Y666_W1136_H50", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "The Future of Software Testing Artificial Intelligenc The Future of Software Testing", 
+                    "width": 1136, 
+                    "x": 1564, 
+                    "y": 666
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "The_Future_of_Software_Testing_Artificial_Intelligenc_The_Future_of_Software_Testing"
+                ]
+            }, 
+            "iter_00000_step_00004_26_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_26_android.widget.Image.png", 
+                    "iter_00000_step_00003_26_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "qCqhwKwM5JZzO8QBxSD6ig==\n", 
+                    "height": 58, 
+                    "human_hash": "android.widget.Image_X846_Y1272_W452_H58", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 452, 
+                    "x": 846, 
+                    "y": 1272
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00004_27_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_27_android.widget.TextView.png", 
+                    "iter_00000_step_00003_27_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "zeqKaJ6HP5aet5GOayiy5Q==\n", 
+                    "height": 34, 
+                    "human_hash": "android.widget.TextView_X844_Y848_W346_H34", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI Trends | Sept 29, 2017", 
+                    "width": 346, 
+                    "x": 844, 
+                    "y": 848
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_Trends_|_Sept_29,_2017"
+                ]
+            }, 
+            "iter_00000_step_00004_28_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_28_android.widget.TextView.png", 
+                    "iter_00000_step_00003_28_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "GY3F/x0Bbdwf2J61EEV0NA==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X1572_Y401_W417_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "prnewswire.com | Jul 31, 2018", 
+                    "width": 417, 
+                    "x": 1572, 
+                    "y": 401
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "prnewswire.com_|_Jul_31,_2018"
+                ]
+            }, 
+            "iter_00000_step_00004_29_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_29_android.widget.TextView.png", 
+                    "iter_00000_step_00003_29_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "3ztaDcdwvDGpYc5dKlBo7Q==\n", 
+                    "height": 46, 
+                    "human_hash": "android.widget.TextView_X1571_Y296_W589_H46", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Test Every App In The World", 
+                    "width": 589, 
+                    "x": 1571, 
+                    "y": 296
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Test_Every_App_In_The_World"
+                ]
+            }, 
+            "iter_00000_step_00004_2_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_2_android.widget.TextView.png", 
+                    "iter_00000_step_00003_2_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "Vwdcz7Hm2+zTydbLh59G0w==\n", 
+                    "height": 38, 
+                    "human_hash": "android.widget.TextView_X1576_Y833_W268_H38", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Jason Arbon", 
+                    "width": 268, 
+                    "x": 1576, 
+                    "y": 833
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Jason_Arbon"
+                ]
+            }, 
+            "iter_00000_step_00004_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_3_android.widget.TextView.png", 
+                    "iter_00000_step_00003_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "cn7fjv5WaMsZtDf5D7xnNw==\n", 
+                    "height": 38, 
+                    "human_hash": "android.widget.TextView_X864_Y751_W555_H38", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "software testing has arived", 
+                    "width": 555, 
+                    "x": 864, 
+                    "y": 751
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "software_testing_has_arived"
+                ]
+            }, 
+            "iter_00000_step_00004_4_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_4_android.widget.TextView.png", 
+                    "iter_00000_step_00003_4_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "tnPKZ0plxfzEbvRQR3Uq/Q==\n", 
+                    "height": 34, 
+                    "human_hash": "android.widget.TextView_X1569_Y931_W383_H34", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sticky Minds | Sept 15, 2017", 
+                    "width": 383, 
+                    "x": 1569, 
+                    "y": 931
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sticky_Minds_|_Sept_15,_2017"
+                ]
+            }, 
+            "iter_00000_step_00004_5_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_5_android.widget.TextView.png", 
+                    "iter_00000_step_00003_5_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "J40rGubCASZ8pvbxJcrSeg==\n", 
+                    "height": 29, 
+                    "human_hash": "android.widget.TextView_X2293_Y1380_W164_H29", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "CIO Review", 
+                    "width": 164, 
+                    "x": 2293, 
+                    "y": 1380
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "CIO_Review"
+                ]
+            }, 
+            "iter_00000_step_00004_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_7_android.widget.TextView.png", 
+                    "iter_00000_step_00003_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "B1msC2PX4NPSYLbgbxwW9A==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X1567_Y1380_W179_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "ech Beacon eaco", 
+                    "width": 179, 
+                    "x": 1567, 
+                    "y": 1380
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "ech_Beacon_eaco"
+                ]
+            }, 
+            "iter_00000_step_00004_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_8_android.widget.TextView.png", 
+                    "iter_00000_step_00003_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "XLP2pJkhCNZ9sGsiJDQETg==\n", 
+                    "height": 36, 
+                    "human_hash": "android.widget.TextView_X2306_Y752_W617_H36", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "becoming the new paradigm ir", 
+                    "width": 617, 
+                    "x": 2306, 
+                    "y": 752
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "becoming_the_new_paradigm_ir"
+                ]
+            }, 
+            "iter_00000_step_00004_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00004_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00004_9_android.widget.TextView.png", 
+                    "iter_00000_step_00003_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "elkxPm0rLAcL1zdhSD/Vcw==\n", 
+                    "height": 49, 
+                    "human_hash": "android.widget.TextView_X831_Y1277_W468_H49", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "resources for QA pros", 
+                    "width": 468, 
+                    "x": 831, 
+                    "y": 1277
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "resources_for_QA_pros"
+                ]
+            }, 
+            "iter_00000_step_00005_0_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_0_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "0fiUKAKu1mOE1QTmOrwrPQ==\n", 
+                    "height": 44, 
+                    "human_hash": "android.widget.TextView_X2312_Y70_W288_H44", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Follow in 2019", 
+                    "width": 288, 
+                    "x": 2312, 
+                    "y": 70
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Follow_in_2019"
+                ]
+            }, 
+            "iter_00000_step_00005_10_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_10_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "U0Ss5cNl+kE5lhNFejQF7w==\n", 
+                    "height": 49, 
+                    "human_hash": "android.widget.TextView_X860_Y965_W507_H49", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Will AI bots steal your QA", 
+                    "width": 507, 
+                    "x": 860, 
+                    "y": 965
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Will_AI_bots_steal_your_QA"
+                ]
+            }, 
+            "iter_00000_step_00005_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "dPk2MX3OXcAchnmZiJSPCg==\n", 
+                    "height": 28, 
+                    "human_hash": "android.widget.TextView_X2299_Y703_W160_H28", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "CIO Review", 
+                    "width": 160, 
+                    "x": 2299, 
+                    "y": 703
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "CIO_Review"
+                ]
+            }, 
+            "iter_00000_step_00005_12_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_12_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "JfkXSPMWdHnEMEI6uMAwbg==\n", 
+                    "height": 44, 
+                    "human_hash": "android.widget.TextView_X847_Y1049_W247_H44", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "testing job?", 
+                    "width": 247, 
+                    "x": 847, 
+                    "y": 1049
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "testing_job?"
+                ]
+            }, 
+            "iter_00000_step_00005_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00005_13_android.widget.TextView.png", 
+                    "iter_00000_step_00004_6_android.widget.TextView.png", 
+                    "iter_00000_step_00003_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "EEE6gYo9Y/Wg2/ql6ZO1eA==\n", 
+                    "height": 34, 
+                    "human_hash": "android.widget.TextView_X104_Y1638_W2394_H34", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "sing this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy_policy for more information,", 
+                    "width": 2394, 
+                    "x": 104, 
+                    "y": 1638
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._We_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._Please_review_our_privacy_policy_for_more_information,"
+                ]
+            }, 
+            "iter_00000_step_00005_14_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_14_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "oZmsUkLDK76ALPB2CwIudQ==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X835_Y1150_W185_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "ech Beacon", 
+                    "width": 185, 
+                    "x": 835, 
+                    "y": 1150
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "ech_Beacon"
+                ]
+            }, 
+            "iter_00000_step_00005_15_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_15_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "aj+HC5QgXB95myntWIdSyQ==\n", 
+                    "height": 56, 
+                    "human_hash": "android.widget.Button_X816_Y67_W652_H56", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "leadership ladder: 3 lesso", 
+                    "width": 652, 
+                    "x": 816, 
+                    "y": 67
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "leadership_ladder:_3_lesso"
+                ]
+            }, 
+            "iter_00000_step_00005_16_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_16_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "p5JJImdCRBjOo+N2c3oJhg==\n", 
+                    "height": 28, 
+                    "human_hash": "android.widget.TextView_X1570_Y703_W174_H28", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "ech Beacon", 
+                    "width": 174, 
+                    "x": 1570, 
+                    "y": 703
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "ech_Beacon"
+                ]
+            }, 
+            "iter_00000_step_00005_17_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_17_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "5jd7mqRv7Ag6JSb73DrchA==\n", 
+                    "height": 50, 
+                    "human_hash": "android.widget.TextView_X2309_Y515_W661_H50", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI-Driven Testing: a New Era of", 
+                    "width": 661, 
+                    "x": 2309, 
+                    "y": 515
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI-Driven_Testing:_a_New_Era_of"
+                ]
+            }, 
+            "iter_00000_step_00005_1_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_1_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "JZjMUcM0B03+zOMClnLb0w==\n", 
+                    "height": 26, 
+                    "human_hash": "android.widget.TextView_X848_Y622_W158_H26", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Centercode", 
+                    "width": 158, 
+                    "x": 848, 
+                    "y": 622
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Centercode"
+                ]
+            }, 
+            "iter_00000_step_00005_2_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_2_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "5A4+5g2pLq4yXuxbXT2RRQ==\n", 
+                    "height": 26, 
+                    "human_hash": "android.widget.TextView_X1567_Y172_W179_H26", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Tech Beacon", 
+                    "width": 179, 
+                    "x": 1567, 
+                    "y": 172
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Tech_Beacon"
+                ]
+            }, 
+            "iter_00000_step_00005_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "m8SYbStSiyiscL1KuGC97Q==\n", 
+                    "height": 35, 
+                    "human_hash": "android.widget.TextView_X2301_Y607_W333_H35", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Test Automation", 
+                    "width": 333, 
+                    "x": 2301, 
+                    "y": 607
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Test_Automation"
+                ]
+            }, 
+            "iter_00000_step_00005_4_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_4_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "G0Lz61KuF1r06MJHg45GsQ==\n", 
+                    "height": 45, 
+                    "human_hash": "android.widget.TextView_X868_Y517_W545_H45", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI and the Future of Testing", 
+                    "width": 545, 
+                    "x": 868, 
+                    "y": 517
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_and_the_Future_of_Testing"
+                ]
+            }, 
+            "iter_00000_step_00005_5_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_5_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "PT3Es2eIYeCO7VTrJXTxfg==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X837_Y250_W181_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "ech Beacon ", 
+                    "width": 181, 
+                    "x": 837, 
+                    "y": 250
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "ech_Beacon_"
+                ]
+            }, 
+            "iter_00000_step_00005_6_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "6AMh/N/HCln5Uwz/tJtb3A==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X858_Y157_W156_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "learned", 
+                    "width": 156, 
+                    "x": 858, 
+                    "y": 157
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "learned"
+                ]
+            }, 
+            "iter_00000_step_00005_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "5fU1/qNEFfZo6vIYs/CqaA==\n", 
+                    "height": 42, 
+                    "human_hash": "android.widget.TextView_X1603_Y518_W499_H42", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "est automation tools: To", 
+                    "width": 499, 
+                    "x": 1603, 
+                    "y": 518
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "est_automation_tools:_To"
+                ]
+            }, 
+            "iter_00000_step_00005_8_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_8_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "sj8DROuh3NOUigRDEJyizA==\n", 
+                    "height": 50, 
+                    "human_hash": "android.widget.Image_X837_Y1046_W260_H50", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "testing job?", 
+                    "width": 260, 
+                    "x": 837, 
+                    "y": 1046
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "testing_job?"
+                ]
+            }, 
+            "iter_00000_step_00005_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00005_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "jKnuRY1rHBlm0A1GnIrBdg==\n", 
+                    "height": 25, 
+                    "human_hash": "android.widget.TextView_X2298_Y172_W171_H25", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Tech Beacon", 
+                    "width": 171, 
+                    "x": 2298, 
+                    "y": 172
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Tech_Beacon"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_5_android.widget.Image.png", 
+            "iter_00000_step_00000_10_android.widget.TextView.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png", 
+            "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00002_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_8_android.widget.Image.png", 
+            "iter_00000_step_00004_25_android.widget.TextView.png", 
+            "iter_00000_step_00000_6_android.widget.Image.png", 
+            "iter_00000_step_00002_9_android.widget.TextView.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png", 
+            "iter_00000_step_00000_2_android.widget.TextView.png", 
+            "iter_00000_step_00002_16_android.widget.TextView.png", 
+            "iter_00000_step_00005_15_android.widget.Button.png", 
+            "iter_00000_step_00005_17_android.widget.TextView.png", 
+            "iter_00000_step_00004_10_android.widget.TextView.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_12_android.widget.Image.png", 
+            "iter_00000_step_00000_1_android.widget.Image.png", 
+            "iter_00000_step_00002_20_android.widget.Image.png", 
+            "iter_00000_step_00004_0_android.widget.Image.png", 
+            "iter_00000_step_00004_22_android.widget.TextView.png", 
+            "iter_00000_step_00002_1_android.widget.TextView.png", 
+            "iter_00000_step_00000_0_android.widget.Image.png", 
+            "iter_00000_step_00000_14_android.widget.TextView.png", 
+            "iter_00000_step_00004_29_android.widget.TextView.png", 
+            "iter_00000_step_00002_6_android.widget.TextView.png", 
+            "iter_00000_step_00002_12_android.widget.TextView.png", 
+            "iter_00000_step_00002_3_android.widget.TextView.png", 
+            "iter_00000_step_00002_0_android.widget.TextView.png", 
+            "iter_00000_step_00004_26_android.widget.Image.png", 
+            "iter_00000_step_00004_24_android.widget.TextView.png", 
+            "iter_00000_step_00004_12_android.widget.Image.png", 
+            "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00004_13_android.widget.Image.png", 
+            "iter_00000_step_00005_4_android.widget.TextView.png", 
+            "iter_00000_step_00004_17_android.widget.TextView.png", 
+            "iter_00000_step_00002_5_android.widget.TextView.png", 
+            "iter_00000_step_00004_23_android.widget.TextView.png", 
+            "iter_00000_step_00000_4_android.widget.TextView.png", 
+            "iter_00000_step_00004_19_android.widget.TextView.png", 
+            "iter_00000_step_00004_9_android.widget.TextView.png", 
+            "iter_00000_step_00004_11_android.widget.TextView.png", 
+            "iter_00000_step_00004_8_android.widget.TextView.png", 
+            "iter_00000_step_00004_14_android.widget.TextView.png", 
+            "iter_00000_step_00004_3_android.widget.TextView.png", 
+            "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_2_android.widget.TextView.png", 
+            "iter_00000_step_00004_20_android.widget.TextView.png", 
+            "iter_00000_step_00002_10_android.widget.TextView.png", 
+            "iter_00000_step_00004_15_android.widget.TextView.png", 
+            "iter_00000_step_00004_21_android.widget.TextView.png", 
+            "iter_00000_step_00002_14_android.widget.TextView.png", 
+            "iter_00000_step_00004_16_android.widget.TextView.png", 
+            "iter_00000_step_00004_28_android.widget.TextView.png", 
+            "iter_00000_step_00004_4_android.widget.TextView.png", 
+            "iter_00000_step_00005_8_android.widget.Image.png", 
+            "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00002_13_android.widget.TextView.png", 
+            "iter_00000_step_00002_19_android.widget.TextView.png", 
+            "iter_00000_step_00004_27_android.widget.TextView.png", 
+            "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00004_1_android.widget.TextView.png", 
+            "iter_00000_step_00002_17_android.widget.TextView.png", 
+            "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00004_2_android.widget.TextView.png", 
+            "iter_00000_step_00002_8_android.widget.TextView.png", 
+            "iter_00000_step_00000_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_15_android.widget.TextView.png", 
+            "iter_00000_step_00002_18_android.widget.TextView.png", 
+            "iter_00000_step_00004_18_android.widget.TextView.png", 
+            "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00004_7_android.widget.TextView.png", 
+            "iter_00000_step_00005_16_android.widget.TextView.png", 
+            "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00004_5_android.widget.TextView.png", 
+            "iter_00000_step_00005_2_android.widget.TextView.png", 
+            "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00000_3_android.widget.TextView.png", 
+            "iter_00000_step_00002_4_android.widget.TextView.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_android.widget.Image.png": [
+                "iter_00000_step_00000_0_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00000_10_android.widget.TextView.png": [
+                "iter_00000_step_00000_10_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_11_android.widget.TextView.png": [
+                "iter_00000_step_00000_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_12_android.widget.Image.png": [
+                "iter_00000_step_00000_12_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00000_13_android.widget.TextView.png": [
+                "iter_00000_step_00000_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_14_android.widget.TextView.png": [
+                "iter_00000_step_00000_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_1_android.widget.Image.png": [
+                "iter_00000_step_00000_1_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00000_2_android.widget.TextView.png": [
+                "iter_00000_step_00000_2_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_3_android.widget.TextView.png": [
+                "iter_00000_step_00000_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_4_android.widget.TextView.png": [
+                "iter_00000_step_00000_4_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_5_android.widget.Image.png": [
+                "iter_00000_step_00000_5_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00000_6_android.widget.Image.png": [
+                "iter_00000_step_00000_6_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00000_7_android.widget.TextView.png": [
+                "iter_00000_step_00000_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_8_android.widget.Image.png": [
+                "iter_00000_step_00000_8_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00000_9_android.widget.TextView.png": [
+                "iter_00000_step_00000_9_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_0_android.widget.TextView.png": [
+                "iter_00000_step_00002_0_android.widget.TextView.png", 
+                "iter_00000_step_00001_0_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_10_android.widget.TextView.png": [
+                "iter_00000_step_00002_10_android.widget.TextView.png", 
+                "iter_00000_step_00001_10_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_11_android.widget.TextView.png": [
+                "iter_00000_step_00002_11_android.widget.TextView.png", 
+                "iter_00000_step_00001_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_12_android.widget.TextView.png": [
+                "iter_00000_step_00002_12_android.widget.TextView.png", 
+                "iter_00000_step_00001_12_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_13_android.widget.TextView.png": [
+                "iter_00000_step_00002_13_android.widget.TextView.png", 
+                "iter_00000_step_00001_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_14_android.widget.TextView.png": [
+                "iter_00000_step_00002_14_android.widget.TextView.png", 
+                "iter_00000_step_00001_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_15_android.widget.TextView.png": [
+                "iter_00000_step_00002_15_android.widget.TextView.png", 
+                "iter_00000_step_00001_15_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_16_android.widget.TextView.png": [
+                "iter_00000_step_00002_16_android.widget.TextView.png", 
+                "iter_00000_step_00001_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_17_android.widget.TextView.png": [
+                "iter_00000_step_00002_17_android.widget.TextView.png", 
+                "iter_00000_step_00001_17_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_18_android.widget.TextView.png": [
+                "iter_00000_step_00002_18_android.widget.TextView.png", 
+                "iter_00000_step_00001_18_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_19_android.widget.TextView.png": [
+                "iter_00000_step_00002_19_android.widget.TextView.png", 
+                "iter_00000_step_00001_19_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_1_android.widget.TextView.png": [
+                "iter_00000_step_00002_1_android.widget.TextView.png", 
+                "iter_00000_step_00001_1_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_20_android.widget.Image.png": [
+                "iter_00000_step_00002_20_android.widget.Image.png", 
+                "iter_00000_step_00001_20_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00002_2_android.widget.TextView.png": [
+                "iter_00000_step_00002_2_android.widget.TextView.png", 
+                "iter_00000_step_00001_2_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_3_android.widget.TextView.png": [
+                "iter_00000_step_00002_3_android.widget.TextView.png", 
+                "iter_00000_step_00001_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_4_android.widget.TextView.png": [
+                "iter_00000_step_00002_4_android.widget.TextView.png", 
+                "iter_00000_step_00001_4_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_5_android.widget.TextView.png": [
+                "iter_00000_step_00002_5_android.widget.TextView.png", 
+                "iter_00000_step_00001_5_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_6_android.widget.TextView.png": [
+                "iter_00000_step_00002_6_android.widget.TextView.png", 
+                "iter_00000_step_00001_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_7_android.widget.TextView.png": [
+                "iter_00000_step_00002_7_android.widget.TextView.png", 
+                "iter_00000_step_00001_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_8_android.widget.TextView.png": [
+                "iter_00000_step_00002_8_android.widget.TextView.png", 
+                "iter_00000_step_00001_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00002_9_android.widget.TextView.png": [
+                "iter_00000_step_00002_9_android.widget.TextView.png", 
+                "iter_00000_step_00001_9_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_0_android.widget.Image.png": [
+                "iter_00000_step_00004_0_android.widget.Image.png", 
+                "iter_00000_step_00003_0_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00004_10_android.widget.TextView.png": [
+                "iter_00000_step_00004_10_android.widget.TextView.png", 
+                "iter_00000_step_00003_10_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_11_android.widget.TextView.png": [
+                "iter_00000_step_00004_11_android.widget.TextView.png", 
+                "iter_00000_step_00003_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_12_android.widget.Image.png": [
+                "iter_00000_step_00004_12_android.widget.Image.png", 
+                "iter_00000_step_00003_12_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00004_13_android.widget.Image.png": [
+                "iter_00000_step_00004_13_android.widget.Image.png", 
+                "iter_00000_step_00003_13_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00004_14_android.widget.TextView.png": [
+                "iter_00000_step_00004_14_android.widget.TextView.png", 
+                "iter_00000_step_00003_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_15_android.widget.TextView.png": [
+                "iter_00000_step_00004_15_android.widget.TextView.png", 
+                "iter_00000_step_00003_15_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_16_android.widget.TextView.png": [
+                "iter_00000_step_00004_16_android.widget.TextView.png", 
+                "iter_00000_step_00003_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_17_android.widget.TextView.png": [
+                "iter_00000_step_00004_17_android.widget.TextView.png", 
+                "iter_00000_step_00003_17_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_18_android.widget.TextView.png": [
+                "iter_00000_step_00004_18_android.widget.TextView.png", 
+                "iter_00000_step_00003_18_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_19_android.widget.TextView.png": [
+                "iter_00000_step_00004_19_android.widget.TextView.png", 
+                "iter_00000_step_00003_19_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_1_android.widget.TextView.png": [
+                "iter_00000_step_00004_1_android.widget.TextView.png", 
+                "iter_00000_step_00003_1_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_20_android.widget.TextView.png": [
+                "iter_00000_step_00004_20_android.widget.TextView.png", 
+                "iter_00000_step_00003_20_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_21_android.widget.TextView.png": [
+                "iter_00000_step_00004_21_android.widget.TextView.png", 
+                "iter_00000_step_00003_21_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_22_android.widget.TextView.png": [
+                "iter_00000_step_00004_22_android.widget.TextView.png", 
+                "iter_00000_step_00003_22_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_23_android.widget.TextView.png": [
+                "iter_00000_step_00004_23_android.widget.TextView.png", 
+                "iter_00000_step_00003_23_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_24_android.widget.TextView.png": [
+                "iter_00000_step_00004_24_android.widget.TextView.png", 
+                "iter_00000_step_00003_24_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_25_android.widget.TextView.png": [
+                "iter_00000_step_00004_25_android.widget.TextView.png", 
+                "iter_00000_step_00003_25_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_26_android.widget.Image.png": [
+                "iter_00000_step_00004_26_android.widget.Image.png", 
+                "iter_00000_step_00003_26_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00004_27_android.widget.TextView.png": [
+                "iter_00000_step_00004_27_android.widget.TextView.png", 
+                "iter_00000_step_00003_27_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_28_android.widget.TextView.png": [
+                "iter_00000_step_00004_28_android.widget.TextView.png", 
+                "iter_00000_step_00003_28_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_29_android.widget.TextView.png": [
+                "iter_00000_step_00004_29_android.widget.TextView.png", 
+                "iter_00000_step_00003_29_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_2_android.widget.TextView.png": [
+                "iter_00000_step_00004_2_android.widget.TextView.png", 
+                "iter_00000_step_00003_2_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_3_android.widget.TextView.png": [
+                "iter_00000_step_00004_3_android.widget.TextView.png", 
+                "iter_00000_step_00003_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_4_android.widget.TextView.png": [
+                "iter_00000_step_00004_4_android.widget.TextView.png", 
+                "iter_00000_step_00003_4_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_5_android.widget.TextView.png": [
+                "iter_00000_step_00004_5_android.widget.TextView.png", 
+                "iter_00000_step_00003_5_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_7_android.widget.TextView.png": [
+                "iter_00000_step_00004_7_android.widget.TextView.png", 
+                "iter_00000_step_00003_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_8_android.widget.TextView.png": [
+                "iter_00000_step_00004_8_android.widget.TextView.png", 
+                "iter_00000_step_00003_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00004_9_android.widget.TextView.png": [
+                "iter_00000_step_00004_9_android.widget.TextView.png", 
+                "iter_00000_step_00003_9_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_0_android.widget.TextView.png": [
+                "iter_00000_step_00005_0_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_10_android.widget.TextView.png": [
+                "iter_00000_step_00005_10_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_11_android.widget.TextView.png": [
+                "iter_00000_step_00005_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_12_android.widget.TextView.png": [
+                "iter_00000_step_00005_12_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_13_android.widget.TextView.png": [
+                "iter_00000_step_00005_13_android.widget.TextView.png", 
+                "iter_00000_step_00004_6_android.widget.TextView.png", 
+                "iter_00000_step_00003_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_14_android.widget.TextView.png": [
+                "iter_00000_step_00005_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_15_android.widget.Button.png": [
+                "iter_00000_step_00005_15_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00005_16_android.widget.TextView.png": [
+                "iter_00000_step_00005_16_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_17_android.widget.TextView.png": [
+                "iter_00000_step_00005_17_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_1_android.widget.TextView.png": [
+                "iter_00000_step_00005_1_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_2_android.widget.TextView.png": [
+                "iter_00000_step_00005_2_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_3_android.widget.TextView.png": [
+                "iter_00000_step_00005_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_4_android.widget.TextView.png": [
+                "iter_00000_step_00005_4_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_5_android.widget.TextView.png": [
+                "iter_00000_step_00005_5_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_6_android.widget.TextView.png": [
+                "iter_00000_step_00005_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_7_android.widget.TextView.png": [
+                "iter_00000_step_00005_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_8_android.widget.Image.png": [
+                "iter_00000_step_00005_8_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00005_9_android.widget.TextView.png": [
+                "iter_00000_step_00005_9_android.widget.TextView.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00005_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_android.widget.Image.png", 
+                "iter_00000_step_00000_1_android.widget.Image.png", 
+                "iter_00000_step_00000_2_android.widget.TextView.png", 
+                "iter_00000_step_00000_3_android.widget.TextView.png", 
+                "iter_00000_step_00000_4_android.widget.TextView.png", 
+                "iter_00000_step_00000_5_android.widget.Image.png", 
+                "iter_00000_step_00000_6_android.widget.Image.png", 
+                "iter_00000_step_00000_7_android.widget.TextView.png", 
+                "iter_00000_step_00000_8_android.widget.Image.png", 
+                "iter_00000_step_00000_9_android.widget.TextView.png", 
+                "iter_00000_step_00000_10_android.widget.TextView.png", 
+                "iter_00000_step_00000_11_android.widget.TextView.png", 
+                "iter_00000_step_00000_12_android.widget.Image.png", 
+                "iter_00000_step_00000_13_android.widget.TextView.png", 
+                "iter_00000_step_00000_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00002_0_android.widget.TextView.png", 
+                "iter_00000_step_00002_1_android.widget.TextView.png", 
+                "iter_00000_step_00002_2_android.widget.TextView.png", 
+                "iter_00000_step_00002_3_android.widget.TextView.png", 
+                "iter_00000_step_00002_4_android.widget.TextView.png", 
+                "iter_00000_step_00002_5_android.widget.TextView.png", 
+                "iter_00000_step_00002_6_android.widget.TextView.png", 
+                "iter_00000_step_00002_7_android.widget.TextView.png", 
+                "iter_00000_step_00002_8_android.widget.TextView.png", 
+                "iter_00000_step_00002_9_android.widget.TextView.png", 
+                "iter_00000_step_00002_10_android.widget.TextView.png", 
+                "iter_00000_step_00002_11_android.widget.TextView.png", 
+                "iter_00000_step_00002_12_android.widget.TextView.png", 
+                "iter_00000_step_00002_13_android.widget.TextView.png", 
+                "iter_00000_step_00002_14_android.widget.TextView.png", 
+                "iter_00000_step_00002_15_android.widget.TextView.png", 
+                "iter_00000_step_00002_16_android.widget.TextView.png", 
+                "iter_00000_step_00002_17_android.widget.TextView.png", 
+                "iter_00000_step_00002_18_android.widget.TextView.png", 
+                "iter_00000_step_00002_19_android.widget.TextView.png", 
+                "iter_00000_step_00002_20_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00004_0_android.widget.Image.png", 
+                "iter_00000_step_00004_1_android.widget.TextView.png", 
+                "iter_00000_step_00004_2_android.widget.TextView.png", 
+                "iter_00000_step_00004_3_android.widget.TextView.png", 
+                "iter_00000_step_00004_4_android.widget.TextView.png", 
+                "iter_00000_step_00004_5_android.widget.TextView.png", 
+                "iter_00000_step_00005_13_android.widget.TextView.png", 
+                "iter_00000_step_00004_7_android.widget.TextView.png", 
+                "iter_00000_step_00004_8_android.widget.TextView.png", 
+                "iter_00000_step_00004_9_android.widget.TextView.png", 
+                "iter_00000_step_00004_10_android.widget.TextView.png", 
+                "iter_00000_step_00004_11_android.widget.TextView.png", 
+                "iter_00000_step_00004_12_android.widget.Image.png", 
+                "iter_00000_step_00004_13_android.widget.Image.png", 
+                "iter_00000_step_00004_14_android.widget.TextView.png", 
+                "iter_00000_step_00004_15_android.widget.TextView.png", 
+                "iter_00000_step_00004_16_android.widget.TextView.png", 
+                "iter_00000_step_00004_17_android.widget.TextView.png", 
+                "iter_00000_step_00004_18_android.widget.TextView.png", 
+                "iter_00000_step_00004_19_android.widget.TextView.png", 
+                "iter_00000_step_00004_20_android.widget.TextView.png", 
+                "iter_00000_step_00004_21_android.widget.TextView.png", 
+                "iter_00000_step_00004_22_android.widget.TextView.png", 
+                "iter_00000_step_00004_23_android.widget.TextView.png", 
+                "iter_00000_step_00004_24_android.widget.TextView.png", 
+                "iter_00000_step_00004_25_android.widget.TextView.png", 
+                "iter_00000_step_00004_26_android.widget.Image.png", 
+                "iter_00000_step_00004_27_android.widget.TextView.png", 
+                "iter_00000_step_00004_28_android.widget.TextView.png", 
+                "iter_00000_step_00004_29_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_screenshot.png": [
+                "iter_00000_step_00005_0_android.widget.TextView.png", 
+                "iter_00000_step_00005_1_android.widget.TextView.png", 
+                "iter_00000_step_00005_2_android.widget.TextView.png", 
+                "iter_00000_step_00005_3_android.widget.TextView.png", 
+                "iter_00000_step_00005_4_android.widget.TextView.png", 
+                "iter_00000_step_00005_5_android.widget.TextView.png", 
+                "iter_00000_step_00005_6_android.widget.TextView.png", 
+                "iter_00000_step_00005_7_android.widget.TextView.png", 
+                "iter_00000_step_00005_8_android.widget.Image.png", 
+                "iter_00000_step_00005_9_android.widget.TextView.png", 
+                "iter_00000_step_00005_10_android.widget.TextView.png", 
+                "iter_00000_step_00005_11_android.widget.TextView.png", 
+                "iter_00000_step_00005_12_android.widget.TextView.png", 
+                "iter_00000_step_00005_13_android.widget.TextView.png", 
+                "iter_00000_step_00005_14_android.widget.TextView.png", 
+                "iter_00000_step_00005_15_android.widget.Button.png", 
+                "iter_00000_step_00005_16_android.widget.TextView.png", 
+                "iter_00000_step_00005_17_android.widget.TextView.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "android.widget.image", 
+                    "image", 
+                    "android.widget.textview", 
+                    "textview"
+                ], 
+                "text": [
+                    "", 
+                    "with_devops_cycles_and_eliminates_the_need_for_tedious", 
+                    "code_creation,_constant_code_maintenance,_and", 
+                    "go_beyond_legacy", 
+                    "problems_with_scale.", 
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._we_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._please_review_our_privacy_policy_for_more_information,", 
+                    "contact", 
+                    "with_test.ai", 
+                    "oduct_industries_company_events_careers_contact", 
+                    "ai_provides_the_speed_that_qa_teams_need_to_keep_up"
+                ]
+            }, 
+            "iter_00000_step_00001_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00001_screenshot.png", 
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "android.widget.image", 
+                    "image", 
+                    "android.widget.textview", 
+                    "textview"
+                ], 
+                "text": [
+                    "", 
+                    "search_quality_software_|_april_19,_2018", 
+                    "technative.io_|_sept_02,_2019", 
+                    "request_a_demo", 
+                    "security_boulevard_|_jun_20,_2019", 
+                    "will_ai_and_machine_learning", 
+                    "luct_industries_company_events_careers_contac", 
+                    "business_post_|_oct_10,_2020", 
+                    "techcentral.ie_|_nov_8,_2019", 
+                    "vhy_ai_and_machine_learning", 
+                    "contact", 
+                    "take_over_software_testing?", 
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._we_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._please_review_our_privacy_policy_for_more_information,", 
+                    "vill_redefine_software_testing", 
+                    "ai_in_software_testing_has", 
+                    "bridging_the_gap_between_f", 
+                    "use_and_value", 
+                    "rrived._here's_why_robots_rul", 
+                    "podcasts", 
+                    "n_interview_with_jason_arbor", 
+                    "test.ai_in_the_news"
+                ]
+            }, 
+            "iter_00000_step_00003_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00003_screenshot.png", 
+                    "iter_00000_step_00004_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "android.widget.image", 
+                    "image", 
+                    "android.widget.textview", 
+                    "textview"
+                ], 
+                "text": [
+                    "", 
+                    "verification_with_jason_arbor", 
+                    "stp_software_test_professionals_|_jan_24,_2019", 
+                    "transforming_testing:_a_reci", 
+                    "sqa_takeaways:_why_testers", 
+                    "for_quality_engineering", 
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._we_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._please_review_our_privacy_policy_for_more_information,", 
+                    "analytics_india_mag_|_jan_05,_2017", 
+                    "becoming_the_new_paradigm_ir", 
+                    "test_every_app_in_the_world", 
+                    "ai_in_testing:_13_essential", 
+                    "resources_for_qa_pros", 
+                    "jason_arbon", 
+                    "artificial_intelligence_in", 
+                    "need_ai,_more_for_qa_pros", 
+                    "the_future_of_software_testing", 
+                    "sticky_minds_|_sept_15,_2017", 
+                    "ech_beacon", 
+                    "test_guild_|_may_13,_2018", 
+                    "cio_review", 
+                    "software_testing_has_arived", 
+                    "ai_trends_|_sept_29,_2017", 
+                    "with_ai:_an_interview_wit", 
+                    "the_future_of_software_testing_artificial_intelligenc_the_future_of_software_testing", 
+                    "ech_beacon_eaco", 
+                    "prnewswire.com_|_jul_31,_2018", 
+                    "software_testing"
+                ]
+            }, 
+            "iter_00000_step_00005_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00005_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.widget.textview", 
+                    "image", 
+                    "android.widget.image", 
+                    "all_screens", 
+                    "button", 
+                    "textview"
+                ], 
+                "text": [
+                    "tech_beacon", 
+                    "follow_in_2019", 
+                    "will_ai_bots_steal_your_qa", 
+                    "ech_beacon_", 
+                    "centercode", 
+                    "ai_and_the_future_of_testing", 
+                    "cio_review", 
+                    "ai-driven_testing:_a_new_era_of", 
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._we_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._please_review_our_privacy_policy_for_more_information,", 
+                    "leadership_ladder:_3_lesso", 
+                    "test_automation", 
+                    "est_automation_tools:_to", 
+                    "learned", 
+                    "testing_job?", 
+                    "ech_beacon"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png", 
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ], 
+            "iter_00000_step_00001_screenshot.png": [
+                "iter_00000_step_00001_screenshot.png", 
+                "iter_00000_step_00002_screenshot.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_screenshot.png", 
+                "iter_00000_step_00004_screenshot.png"
+            ], 
+            "iter_00000_step_00005_screenshot.png": [
+                "iter_00000_step_00005_screenshot.png"
+            ]
+        }
+    }
+}

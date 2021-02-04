@@ -1,0 +1,1718 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.TextView.png": "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00000_10_android.widget.TextView.png": "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png": "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_12_android.widget.TextView.png": "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00000_14_android.widget.TextView.png": "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00000_1_android.widget.TextView.png": "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00000_2_android.widget.Image.png": "iter_00000_step_00005_2_android.widget.Image.png", 
+            "iter_00000_step_00000_3_android.widget.TextView.png": "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00000_4_android.widget.Image.png": "iter_00000_step_00005_4_android.widget.Image.png", 
+            "iter_00000_step_00000_5_android.widget.TextView.png": "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00000_6_android.widget.TextView.png": "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00000_7_android.widget.TextView.png": "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00000_8_android.widget.TextView.png": "iter_00000_step_00005_8_android.widget.TextView.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png": "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00001_0_android.widget.TextView.png": "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00001_10_android.widget.TextView.png": "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00001_11_android.widget.TextView.png": "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00001_12_android.widget.TextView.png": "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00001_13_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00001_14_android.widget.TextView.png": "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00001_1_android.widget.TextView.png": "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00001_2_android.widget.Image.png": "iter_00000_step_00005_2_android.widget.Image.png", 
+            "iter_00000_step_00001_3_android.widget.TextView.png": "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00001_4_android.widget.Image.png": "iter_00000_step_00005_4_android.widget.Image.png", 
+            "iter_00000_step_00001_5_android.widget.TextView.png": "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00001_6_android.widget.TextView.png": "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00001_7_android.widget.TextView.png": "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00001_8_android.widget.TextView.png": "iter_00000_step_00005_8_android.widget.TextView.png", 
+            "iter_00000_step_00001_9_android.widget.TextView.png": "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00002_0_android.widget.TextView.png": "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00002_10_android.widget.TextView.png": "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00002_11_android.widget.TextView.png": "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00002_12_android.widget.TextView.png": "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00002_13_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00002_14_android.widget.TextView.png": "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00002_1_android.widget.TextView.png": "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00002_2_android.widget.Image.png": "iter_00000_step_00005_2_android.widget.Image.png", 
+            "iter_00000_step_00002_3_android.widget.TextView.png": "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00002_4_android.widget.Image.png": "iter_00000_step_00005_4_android.widget.Image.png", 
+            "iter_00000_step_00002_5_android.widget.TextView.png": "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00002_6_android.widget.TextView.png": "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00002_7_android.widget.TextView.png": "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00002_8_android.widget.TextView.png": "iter_00000_step_00005_8_android.widget.TextView.png", 
+            "iter_00000_step_00002_9_android.widget.TextView.png": "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00003_0_android.widget.TextView.png": "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00003_10_android.widget.TextView.png": "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00003_11_android.widget.TextView.png": "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00003_12_android.widget.TextView.png": "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00003_13_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00003_14_android.widget.TextView.png": "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00003_1_android.widget.TextView.png": "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00003_2_android.widget.Image.png": "iter_00000_step_00005_2_android.widget.Image.png", 
+            "iter_00000_step_00003_3_android.widget.TextView.png": "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00003_4_android.widget.Image.png": "iter_00000_step_00005_4_android.widget.Image.png", 
+            "iter_00000_step_00003_5_android.widget.TextView.png": "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00003_6_android.widget.TextView.png": "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00003_7_android.widget.TextView.png": "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00003_8_android.widget.TextView.png": "iter_00000_step_00005_8_android.widget.TextView.png", 
+            "iter_00000_step_00003_9_android.widget.TextView.png": "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00004_0_android.widget.TextView.png": "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00004_10_android.widget.TextView.png": "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00004_11_android.widget.TextView.png": "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00004_12_android.widget.TextView.png": "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00004_13_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00004_14_android.widget.TextView.png": "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00004_1_android.widget.TextView.png": "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00004_2_android.widget.Image.png": "iter_00000_step_00005_2_android.widget.Image.png", 
+            "iter_00000_step_00004_3_android.widget.TextView.png": "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00004_4_android.widget.Image.png": "iter_00000_step_00005_4_android.widget.Image.png", 
+            "iter_00000_step_00004_5_android.widget.TextView.png": "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00004_6_android.widget.TextView.png": "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00004_7_android.widget.TextView.png": "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00004_8_android.widget.TextView.png": "iter_00000_step_00005_8_android.widget.TextView.png", 
+            "iter_00000_step_00004_9_android.widget.TextView.png": "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00005_0_android.widget.TextView.png": "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00005_10_android.widget.TextView.png": "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00005_11_android.widget.TextView.png": "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00005_12_android.widget.TextView.png": "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00005_13_android.widget.TextView.png": "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00005_14_android.widget.TextView.png": "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00005_1_android.widget.TextView.png": "iter_00000_step_00005_1_android.widget.TextView.png", 
+            "iter_00000_step_00005_2_android.widget.Image.png": "iter_00000_step_00005_2_android.widget.Image.png", 
+            "iter_00000_step_00005_3_android.widget.TextView.png": "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00005_4_android.widget.Image.png": "iter_00000_step_00005_4_android.widget.Image.png", 
+            "iter_00000_step_00005_5_android.widget.TextView.png": "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00005_6_android.widget.TextView.png": "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00005_7_android.widget.TextView.png": "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00005_8_android.widget.TextView.png": "iter_00000_step_00005_8_android.widget.TextView.png", 
+            "iter_00000_step_00005_9_android.widget.TextView.png": "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00006_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00006_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00006_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00006_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00006_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00006_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00006_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00006_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00006_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00006_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00006_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00006_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00006_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00007_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00007_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00007_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00007_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00007_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00007_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00007_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00007_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00007_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00007_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00007_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00007_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00007_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00008_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00008_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00008_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00008_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00008_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00008_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00008_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00008_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00008_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00008_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00008_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00008_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00008_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00009_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00009_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00009_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00009_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00009_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00009_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00009_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00009_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00009_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00009_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00009_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00009_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00009_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00010_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00010_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00010_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00010_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00010_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00010_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00010_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00010_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00010_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00010_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00010_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00010_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00010_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00011_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00011_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00011_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00011_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00011_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00011_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00011_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00011_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00011_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00011_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00011_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00011_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00011_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00012_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00012_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00012_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00012_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00012_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00012_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00012_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00012_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00012_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00012_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00012_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00012_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00012_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00013_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00013_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00013_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00013_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00013_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00013_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00013_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00013_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00013_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00013_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00013_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00013_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00013_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00014_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00014_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00014_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00014_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00014_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00014_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00014_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00014_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00014_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00014_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00014_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00014_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00014_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00015_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00015_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00015_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00015_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00015_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00015_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00015_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00015_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00015_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00015_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00015_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00015_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00015_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00016_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00016_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00016_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00016_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00016_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00016_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00016_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00016_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00016_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00016_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00016_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00016_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00016_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00017_0_android.widget.TextView.png": "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00017_10_android.widget.TextView.png": "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00017_11_android.widget.TextView.png": "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00017_12_android.widget.TextView.png": "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00017_1_android.widget.Image.png": "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00017_2_android.widget.Image.png": "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00017_3_android.widget.TextView.png": "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00017_4_android.widget.TextView.png": "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00017_5_android.widget.TextView.png": "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00017_6_android.widget.TextView.png": "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00017_7_android.widget.TextView.png": "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00017_8_android.widget.TextView.png": "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00017_9_android.widget.TextView.png": "iter_00000_step_00017_9_android.widget.TextView.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00005_0_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_0_android.widget.TextView.png", 
+                    "iter_00000_step_00004_0_android.widget.TextView.png", 
+                    "iter_00000_step_00003_0_android.widget.TextView.png", 
+                    "iter_00000_step_00002_0_android.widget.TextView.png", 
+                    "iter_00000_step_00001_0_android.widget.TextView.png", 
+                    "iter_00000_step_00000_0_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "FXvBoZv0Eq1Hd1b7QbXZLw==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X491_Y1190_W337_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "problems with scale.", 
+                    "width": 337, 
+                    "x": 491, 
+                    "y": 1190
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "problems_with_scale."
+                ]
+            }, 
+            "iter_00000_step_00005_10_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_10_android.widget.TextView.png", 
+                    "iter_00000_step_00004_10_android.widget.TextView.png", 
+                    "iter_00000_step_00003_10_android.widget.TextView.png", 
+                    "iter_00000_step_00002_10_android.widget.TextView.png", 
+                    "iter_00000_step_00001_10_android.widget.TextView.png", 
+                    "iter_00000_step_00000_10_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "p5M1+iEHFGZZDAON4RkQQA==\n", 
+                    "height": 84, 
+                    "human_hash": "android.widget.TextView_X500_Y695_W841_H84", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Automation Tools", 
+                    "width": 841, 
+                    "x": 500, 
+                    "y": 695
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Automation_Tools"
+                ]
+            }, 
+            "iter_00000_step_00005_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_11_android.widget.TextView.png", 
+                    "iter_00000_step_00004_11_android.widget.TextView.png", 
+                    "iter_00000_step_00003_11_android.widget.TextView.png", 
+                    "iter_00000_step_00002_11_android.widget.TextView.png", 
+                    "iter_00000_step_00001_11_android.widget.TextView.png", 
+                    "iter_00000_step_00000_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "79L52xjvTTfNtczTQ4xQ+w==\n", 
+                    "height": 40, 
+                    "human_hash": "android.widget.TextView_X2228_Y145_W1030_H40", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "oduct Industries Company Events Careers Contact", 
+                    "width": 1030, 
+                    "x": 2228, 
+                    "y": 145
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "oduct_Industries_Company_Events_Careers_Contact"
+                ]
+            }, 
+            "iter_00000_step_00005_12_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_12_android.widget.TextView.png", 
+                    "iter_00000_step_00004_12_android.widget.TextView.png", 
+                    "iter_00000_step_00003_12_android.widget.TextView.png", 
+                    "iter_00000_step_00002_12_android.widget.TextView.png", 
+                    "iter_00000_step_00001_12_android.widget.TextView.png", 
+                    "iter_00000_step_00000_12_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "82pWXFgAuIeW91tNdUYFfQ==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X520_Y1064_W868_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "vith DevOps cycles and eliminates the need for tedious", 
+                    "width": 868, 
+                    "x": 520, 
+                    "y": 1064
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "vith_DevOps_cycles_and_eliminates_the_need_for_tedious"
+                ]
+            }, 
+            "iter_00000_step_00005_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_13_android.widget.TextView.png", 
+                    "iter_00000_step_00004_13_android.widget.TextView.png", 
+                    "iter_00000_step_00003_13_android.widget.TextView.png", 
+                    "iter_00000_step_00002_13_android.widget.TextView.png", 
+                    "iter_00000_step_00001_13_android.widget.TextView.png", 
+                    "iter_00000_step_00000_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "0ZnOViYuS3pPz5vuAKVIxg==\n", 
+                    "height": 28, 
+                    "human_hash": "android.widget.TextView_X514_Y1128_W737_H28", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "code creation, constant code maintenance, and", 
+                    "width": 737, 
+                    "x": 514, 
+                    "y": 1128
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "code_creation,_constant_code_maintenance,_and"
+                ]
+            }, 
+            "iter_00000_step_00005_14_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_14_android.widget.TextView.png", 
+                    "iter_00000_step_00004_14_android.widget.TextView.png", 
+                    "iter_00000_step_00003_14_android.widget.TextView.png", 
+                    "iter_00000_step_00002_14_android.widget.TextView.png", 
+                    "iter_00000_step_00001_14_android.widget.TextView.png", 
+                    "iter_00000_step_00000_14_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "9CP3FPQdGy9SJ52A79tV7Q==\n", 
+                    "height": 28, 
+                    "human_hash": "android.widget.TextView_X3375_Y148_W240_H28", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Request a Demo", 
+                    "width": 240, 
+                    "x": 3375, 
+                    "y": 148
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Request_a_Demo"
+                ]
+            }, 
+            "iter_00000_step_00005_1_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_1_android.widget.TextView.png", 
+                    "iter_00000_step_00004_1_android.widget.TextView.png", 
+                    "iter_00000_step_00003_1_android.widget.TextView.png", 
+                    "iter_00000_step_00002_1_android.widget.TextView.png", 
+                    "iter_00000_step_00001_1_android.widget.TextView.png", 
+                    "iter_00000_step_00000_1_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "VtUpW7GQJG5jY1J0amqMmg==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X2508_Y742_W117_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "", 
+                    "width": 117, 
+                    "x": 2508, 
+                    "y": 742
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00005_2_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_2_android.widget.Image.png", 
+                    "iter_00000_step_00004_2_android.widget.Image.png", 
+                    "iter_00000_step_00003_2_android.widget.Image.png", 
+                    "iter_00000_step_00002_2_android.widget.Image.png", 
+                    "iter_00000_step_00001_2_android.widget.Image.png", 
+                    "iter_00000_step_00000_2_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "VUooMf3UEoG9ft8n23/ttA==\n", 
+                    "height": 81, 
+                    "human_hash": "android.widget.Image_X249_Y118_W320_H81", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 320, 
+                    "x": 249, 
+                    "y": 118
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00005_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_3_android.widget.TextView.png", 
+                    "iter_00000_step_00004_3_android.widget.TextView.png", 
+                    "iter_00000_step_00003_3_android.widget.TextView.png", 
+                    "iter_00000_step_00002_3_android.widget.TextView.png", 
+                    "iter_00000_step_00001_3_android.widget.TextView.png", 
+                    "iter_00000_step_00000_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "O4S7CyD0KpnGAPZGMqeCNg==\n", 
+                    "height": 31, 
+                    "human_hash": "android.widget.TextView_X3141_Y148_W133_H31", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Contact", 
+                    "width": 133, 
+                    "x": 3141, 
+                    "y": 148
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Contact"
+                ]
+            }, 
+            "iter_00000_step_00005_4_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_4_android.widget.Image.png", 
+                    "iter_00000_step_00004_4_android.widget.Image.png", 
+                    "iter_00000_step_00003_4_android.widget.Image.png", 
+                    "iter_00000_step_00002_4_android.widget.Image.png", 
+                    "iter_00000_step_00001_4_android.widget.Image.png", 
+                    "iter_00000_step_00000_4_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "U0R51O2Sc79KSwCdvYSAiw==\n", 
+                    "height": 114, 
+                    "human_hash": "android.widget.Image_X2742_Y505_W258_H114", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 258, 
+                    "x": 2742, 
+                    "y": 505
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00005_5_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_5_android.widget.TextView.png", 
+                    "iter_00000_step_00004_5_android.widget.TextView.png", 
+                    "iter_00000_step_00003_5_android.widget.TextView.png", 
+                    "iter_00000_step_00002_5_android.widget.TextView.png", 
+                    "iter_00000_step_00001_5_android.widget.TextView.png", 
+                    "iter_00000_step_00000_5_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "EZMP5ml1se2VEBzXKU/VpQ==\n", 
+                    "height": 88, 
+                    "human_hash": "android.widget.TextView_X487_Y808_W556_H88", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with test.ai", 
+                    "width": 556, 
+                    "x": 487, 
+                    "y": 808
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_test.ai"
+                ]
+            }, 
+            "iter_00000_step_00005_6_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_6_android.widget.TextView.png", 
+                    "iter_00000_step_00004_6_android.widget.TextView.png", 
+                    "iter_00000_step_00003_6_android.widget.TextView.png", 
+                    "iter_00000_step_00002_6_android.widget.TextView.png", 
+                    "iter_00000_step_00001_6_android.widget.TextView.png", 
+                    "iter_00000_step_00000_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "IUCloSq4XSiGxg/HIq3xmw==\n", 
+                    "height": 39, 
+                    "human_hash": "android.widget.TextView_X509_Y999_W858_H39", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI provides the speed that QA teams need to keep up", 
+                    "width": 858, 
+                    "x": 509, 
+                    "y": 999
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_provides_the_speed_that_QA_teams_need_to_keep_up"
+                ]
+            }, 
+            "iter_00000_step_00005_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_7_android.widget.TextView.png", 
+                    "iter_00000_step_00004_7_android.widget.TextView.png", 
+                    "iter_00000_step_00003_7_android.widget.TextView.png", 
+                    "iter_00000_step_00002_7_android.widget.TextView.png", 
+                    "iter_00000_step_00001_7_android.widget.TextView.png", 
+                    "iter_00000_step_00000_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "dnazZc2HYnEV0INwAH0VXw==\n", 
+                    "height": 105, 
+                    "human_hash": "android.widget.TextView_X498_Y463_W880_H105", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Go Beyond Legacy", 
+                    "width": 880, 
+                    "x": 498, 
+                    "y": 463
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy"
+                ]
+            }, 
+            "iter_00000_step_00005_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_8_android.widget.TextView.png", 
+                    "iter_00000_step_00004_8_android.widget.TextView.png", 
+                    "iter_00000_step_00003_8_android.widget.TextView.png", 
+                    "iter_00000_step_00002_8_android.widget.TextView.png", 
+                    "iter_00000_step_00001_8_android.widget.TextView.png", 
+                    "iter_00000_step_00000_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "IEqnjX7zwNnzCom3tx15GQ==\n", 
+                    "height": 146, 
+                    "human_hash": "android.widget.TextView_X2847_Y872_W156_H146", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "", 
+                    "width": 156, 
+                    "x": 2847, 
+                    "y": 872
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00005_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_9_android.widget.TextView.png", 
+                    "iter_00000_step_00004_9_android.widget.TextView.png", 
+                    "iter_00000_step_00003_9_android.widget.TextView.png", 
+                    "iter_00000_step_00002_9_android.widget.TextView.png", 
+                    "iter_00000_step_00001_9_android.widget.TextView.png", 
+                    "iter_00000_step_00000_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "LLSEze0HKlflCkTXCA0KQg==\n", 
+                    "height": 34, 
+                    "human_hash": "android.widget.TextView_X104_Y1634_W2400_H34", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "sing this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy_policy for more information,", 
+                    "width": 2400, 
+                    "x": 104, 
+                    "y": 1634
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._We_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._Please_review_our_privacy_policy_for_more_information,"
+                ]
+            }, 
+            "iter_00000_step_00017_0_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_0_android.widget.TextView.png", 
+                    "iter_00000_step_00016_0_android.widget.TextView.png", 
+                    "iter_00000_step_00015_0_android.widget.TextView.png", 
+                    "iter_00000_step_00014_0_android.widget.TextView.png", 
+                    "iter_00000_step_00013_0_android.widget.TextView.png", 
+                    "iter_00000_step_00012_0_android.widget.TextView.png", 
+                    "iter_00000_step_00011_0_android.widget.TextView.png", 
+                    "iter_00000_step_00010_0_android.widget.TextView.png", 
+                    "iter_00000_step_00009_0_android.widget.TextView.png", 
+                    "iter_00000_step_00008_0_android.widget.TextView.png", 
+                    "iter_00000_step_00007_0_android.widget.TextView.png", 
+                    "iter_00000_step_00006_0_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "NwiBtEnrXNjOrz8WbTSUcA==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X490_Y1546_W216_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Testin", 
+                    "width": 216, 
+                    "x": 490, 
+                    "y": 1546
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Testin"
+                ]
+            }, 
+            "iter_00000_step_00017_10_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_10_android.widget.TextView.png", 
+                    "iter_00000_step_00016_10_android.widget.TextView.png", 
+                    "iter_00000_step_00015_10_android.widget.TextView.png", 
+                    "iter_00000_step_00014_10_android.widget.TextView.png", 
+                    "iter_00000_step_00013_10_android.widget.TextView.png", 
+                    "iter_00000_step_00012_10_android.widget.TextView.png", 
+                    "iter_00000_step_00011_10_android.widget.TextView.png", 
+                    "iter_00000_step_00010_10_android.widget.TextView.png", 
+                    "iter_00000_step_00009_10_android.widget.TextView.png", 
+                    "iter_00000_step_00008_10_android.widget.TextView.png", 
+                    "iter_00000_step_00007_10_android.widget.TextView.png", 
+                    "iter_00000_step_00006_10_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "m3VUmrYF6yRFOwstqoCXSQ==\n", 
+                    "height": 84, 
+                    "human_hash": "android.widget.TextView_X481_Y455_W684_H84", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Software Test", 
+                    "width": 684, 
+                    "x": 481, 
+                    "y": 455
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Software_Test"
+                ]
+            }, 
+            "iter_00000_step_00017_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_11_android.widget.TextView.png", 
+                    "iter_00000_step_00016_11_android.widget.TextView.png", 
+                    "iter_00000_step_00015_11_android.widget.TextView.png", 
+                    "iter_00000_step_00014_11_android.widget.TextView.png", 
+                    "iter_00000_step_00013_11_android.widget.TextView.png", 
+                    "iter_00000_step_00012_11_android.widget.TextView.png", 
+                    "iter_00000_step_00011_11_android.widget.TextView.png", 
+                    "iter_00000_step_00010_11_android.widget.TextView.png", 
+                    "iter_00000_step_00009_11_android.widget.TextView.png", 
+                    "iter_00000_step_00008_11_android.widget.TextView.png", 
+                    "iter_00000_step_00007_11_android.widget.TextView.png", 
+                    "iter_00000_step_00006_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "MwEepWPc7bCa/j3Y4nVpwg==\n", 
+                    "height": 97, 
+                    "human_hash": "android.widget.TextView_X509_Y565_W825_H97", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Automation Tools", 
+                    "width": 825, 
+                    "x": 509, 
+                    "y": 565
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Automation_Tools"
+                ]
+            }, 
+            "iter_00000_step_00017_12_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_12_android.widget.TextView.png", 
+                    "iter_00000_step_00016_12_android.widget.TextView.png", 
+                    "iter_00000_step_00015_12_android.widget.TextView.png", 
+                    "iter_00000_step_00014_12_android.widget.TextView.png", 
+                    "iter_00000_step_00013_12_android.widget.TextView.png", 
+                    "iter_00000_step_00012_12_android.widget.TextView.png", 
+                    "iter_00000_step_00011_12_android.widget.TextView.png", 
+                    "iter_00000_step_00010_12_android.widget.TextView.png", 
+                    "iter_00000_step_00009_12_android.widget.TextView.png", 
+                    "iter_00000_step_00008_12_android.widget.TextView.png", 
+                    "iter_00000_step_00007_12_android.widget.TextView.png", 
+                    "iter_00000_step_00006_12_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "l9ZQp1D6EVWu+lZLiGnxGw==\n", 
+                    "height": 32, 
+                    "human_hash": "android.widget.TextView_X537_Y936_W838_H32", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "ith DevOps cycles and eliminates the need for tedious", 
+                    "width": 838, 
+                    "x": 537, 
+                    "y": 936
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "ith_DevOps_cycles_and_eliminates_the_need_for_tedious"
+                ]
+            }, 
+            "iter_00000_step_00017_1_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_1_android.widget.Image.png", 
+                    "iter_00000_step_00016_1_android.widget.Image.png", 
+                    "iter_00000_step_00015_1_android.widget.Image.png", 
+                    "iter_00000_step_00014_1_android.widget.Image.png", 
+                    "iter_00000_step_00013_1_android.widget.Image.png", 
+                    "iter_00000_step_00012_1_android.widget.Image.png", 
+                    "iter_00000_step_00011_1_android.widget.Image.png", 
+                    "iter_00000_step_00010_1_android.widget.Image.png", 
+                    "iter_00000_step_00009_1_android.widget.Image.png", 
+                    "iter_00000_step_00008_1_android.widget.Image.png", 
+                    "iter_00000_step_00007_1_android.widget.Image.png", 
+                    "iter_00000_step_00006_1_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "saP1NXZ4YHSvzxNBxQvYIQ==\n", 
+                    "height": 109, 
+                    "human_hash": "android.widget.Image_X2740_Y376_W254_H109", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 254, 
+                    "x": 2740, 
+                    "y": 376
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00017_2_android.widget.Image.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_2_android.widget.Image.png", 
+                    "iter_00000_step_00016_2_android.widget.Image.png", 
+                    "iter_00000_step_00015_2_android.widget.Image.png", 
+                    "iter_00000_step_00014_2_android.widget.Image.png", 
+                    "iter_00000_step_00013_2_android.widget.Image.png", 
+                    "iter_00000_step_00012_2_android.widget.Image.png", 
+                    "iter_00000_step_00011_2_android.widget.Image.png", 
+                    "iter_00000_step_00010_2_android.widget.Image.png", 
+                    "iter_00000_step_00009_2_android.widget.Image.png", 
+                    "iter_00000_step_00008_2_android.widget.Image.png", 
+                    "iter_00000_step_00007_2_android.widget.Image.png", 
+                    "iter_00000_step_00006_2_android.widget.Image.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Image", 
+                    "hash": "e6u99ovc41e0LTZ3kQYZ/w==\n", 
+                    "height": 952, 
+                    "human_hash": "android.widget.Image_X2350_Y284_W985_H952", 
+                    "tag_name": "android.widget.Image", 
+                    "text": "", 
+                    "width": 985, 
+                    "x": 2350, 
+                    "y": 284
+                }, 
+                "tags": [
+                    "android.widget.image", 
+                    "image", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00017_3_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_3_android.widget.TextView.png", 
+                    "iter_00000_step_00016_3_android.widget.TextView.png", 
+                    "iter_00000_step_00015_3_android.widget.TextView.png", 
+                    "iter_00000_step_00014_3_android.widget.TextView.png", 
+                    "iter_00000_step_00013_3_android.widget.TextView.png", 
+                    "iter_00000_step_00012_3_android.widget.TextView.png", 
+                    "iter_00000_step_00011_3_android.widget.TextView.png", 
+                    "iter_00000_step_00010_3_android.widget.TextView.png", 
+                    "iter_00000_step_00009_3_android.widget.TextView.png", 
+                    "iter_00000_step_00008_3_android.widget.TextView.png", 
+                    "iter_00000_step_00007_3_android.widget.TextView.png", 
+                    "iter_00000_step_00006_3_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "1LkNZKa+4ctOnPH/QlpsPg==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X501_Y1064_W318_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "problems with scale", 
+                    "width": 318, 
+                    "x": 501, 
+                    "y": 1064
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "problems_with_scale"
+                ]
+            }, 
+            "iter_00000_step_00017_4_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_4_android.widget.TextView.png", 
+                    "iter_00000_step_00016_4_android.widget.TextView.png", 
+                    "iter_00000_step_00015_4_android.widget.TextView.png", 
+                    "iter_00000_step_00014_4_android.widget.TextView.png", 
+                    "iter_00000_step_00013_4_android.widget.TextView.png", 
+                    "iter_00000_step_00012_4_android.widget.TextView.png", 
+                    "iter_00000_step_00011_4_android.widget.TextView.png", 
+                    "iter_00000_step_00010_4_android.widget.TextView.png", 
+                    "iter_00000_step_00009_4_android.widget.TextView.png", 
+                    "iter_00000_step_00008_4_android.widget.TextView.png", 
+                    "iter_00000_step_00007_4_android.widget.TextView.png", 
+                    "iter_00000_step_00006_4_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "4MXcjWunM5e7ukzmXbZZoA==\n", 
+                    "height": 30, 
+                    "human_hash": "android.widget.TextView_X500_Y1002_W747_H30", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "code creation, constant code maintenance, and", 
+                    "width": 747, 
+                    "x": 500, 
+                    "y": 1002
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "code_creation,_constant_code_maintenance,_and"
+                ]
+            }, 
+            "iter_00000_step_00017_5_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_5_android.widget.TextView.png", 
+                    "iter_00000_step_00016_5_android.widget.TextView.png", 
+                    "iter_00000_step_00015_5_android.widget.TextView.png", 
+                    "iter_00000_step_00014_5_android.widget.TextView.png", 
+                    "iter_00000_step_00013_5_android.widget.TextView.png", 
+                    "iter_00000_step_00012_5_android.widget.TextView.png", 
+                    "iter_00000_step_00011_5_android.widget.TextView.png", 
+                    "iter_00000_step_00010_5_android.widget.TextView.png", 
+                    "iter_00000_step_00009_5_android.widget.TextView.png", 
+                    "iter_00000_step_00008_5_android.widget.TextView.png", 
+                    "iter_00000_step_00007_5_android.widget.TextView.png", 
+                    "iter_00000_step_00006_5_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "qNHF8lOEiV4GpdHj9FTHGQ==\n", 
+                    "height": 104, 
+                    "human_hash": "android.widget.TextView_X493_Y341_W879_H104", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Go Beyond Legacy", 
+                    "width": 879, 
+                    "x": 493, 
+                    "y": 341
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Go_Beyond_Legacy"
+                ]
+            }, 
+            "iter_00000_step_00017_6_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_6_android.widget.TextView.png", 
+                    "iter_00000_step_00016_6_android.widget.TextView.png", 
+                    "iter_00000_step_00015_6_android.widget.TextView.png", 
+                    "iter_00000_step_00014_6_android.widget.TextView.png", 
+                    "iter_00000_step_00013_6_android.widget.TextView.png", 
+                    "iter_00000_step_00012_6_android.widget.TextView.png", 
+                    "iter_00000_step_00011_6_android.widget.TextView.png", 
+                    "iter_00000_step_00010_6_android.widget.TextView.png", 
+                    "iter_00000_step_00009_6_android.widget.TextView.png", 
+                    "iter_00000_step_00008_6_android.widget.TextView.png", 
+                    "iter_00000_step_00007_6_android.widget.TextView.png", 
+                    "iter_00000_step_00006_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "H71TdpQGYj4knhjga/ucUQ==\n", 
+                    "height": 48, 
+                    "human_hash": "android.widget.TextView_X511_Y1479_W791_H48", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Test.ai Transforms Software", 
+                    "width": 791, 
+                    "x": 511, 
+                    "y": 1479
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Test.ai_Transforms_Software"
+                ]
+            }, 
+            "iter_00000_step_00017_7_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_7_android.widget.TextView.png", 
+                    "iter_00000_step_00016_7_android.widget.TextView.png", 
+                    "iter_00000_step_00015_7_android.widget.TextView.png", 
+                    "iter_00000_step_00014_7_android.widget.TextView.png", 
+                    "iter_00000_step_00013_7_android.widget.TextView.png", 
+                    "iter_00000_step_00012_7_android.widget.TextView.png", 
+                    "iter_00000_step_00011_7_android.widget.TextView.png", 
+                    "iter_00000_step_00010_7_android.widget.TextView.png", 
+                    "iter_00000_step_00009_7_android.widget.TextView.png", 
+                    "iter_00000_step_00008_7_android.widget.TextView.png", 
+                    "iter_00000_step_00007_7_android.widget.TextView.png", 
+                    "iter_00000_step_00006_7_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "d9+8aCKtl65LgGbF0s3cHw==\n", 
+                    "height": 33, 
+                    "human_hash": "android.widget.TextView_X90_Y1635_W2387_H33", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. Please review our privacy_policy for more information,", 
+                    "width": 2387, 
+                    "x": 90, 
+                    "y": 1635
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "using_this_website,_you_agree_to_our_use_of_cookies._We_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._Please_review_our_privacy_policy_for_more_information,"
+                ]
+            }, 
+            "iter_00000_step_00017_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_8_android.widget.TextView.png", 
+                    "iter_00000_step_00016_8_android.widget.TextView.png", 
+                    "iter_00000_step_00015_8_android.widget.TextView.png", 
+                    "iter_00000_step_00014_8_android.widget.TextView.png", 
+                    "iter_00000_step_00013_8_android.widget.TextView.png", 
+                    "iter_00000_step_00012_8_android.widget.TextView.png", 
+                    "iter_00000_step_00011_8_android.widget.TextView.png", 
+                    "iter_00000_step_00010_8_android.widget.TextView.png", 
+                    "iter_00000_step_00009_8_android.widget.TextView.png", 
+                    "iter_00000_step_00008_8_android.widget.TextView.png", 
+                    "iter_00000_step_00007_8_android.widget.TextView.png", 
+                    "iter_00000_step_00006_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "3N94Wc5INXLBPR2AN0k7AA==\n", 
+                    "height": 84, 
+                    "human_hash": "android.widget.TextView_X482_Y688_W556_H84", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "with test.ai", 
+                    "width": 556, 
+                    "x": 482, 
+                    "y": 688
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "with_test.ai"
+                ]
+            }, 
+            "iter_00000_step_00017_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00017_screenshot.png", 
+                "dupe_count": 12, 
+                "dupes": [
+                    "iter_00000_step_00017_9_android.widget.TextView.png", 
+                    "iter_00000_step_00016_9_android.widget.TextView.png", 
+                    "iter_00000_step_00015_9_android.widget.TextView.png", 
+                    "iter_00000_step_00014_9_android.widget.TextView.png", 
+                    "iter_00000_step_00013_9_android.widget.TextView.png", 
+                    "iter_00000_step_00012_9_android.widget.TextView.png", 
+                    "iter_00000_step_00011_9_android.widget.TextView.png", 
+                    "iter_00000_step_00010_9_android.widget.TextView.png", 
+                    "iter_00000_step_00009_9_android.widget.TextView.png", 
+                    "iter_00000_step_00008_9_android.widget.TextView.png", 
+                    "iter_00000_step_00007_9_android.widget.TextView.png", 
+                    "iter_00000_step_00006_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "5A5/n/PwvZvPxKCh+05W9w==\n", 
+                    "height": 42, 
+                    "human_hash": "android.widget.TextView_X510_Y868_W862_H42", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "AI provides the speed that QA teams need to keep up", 
+                    "width": 862, 
+                    "x": 510, 
+                    "y": 868
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "AI_provides_the_speed_that_QA_teams_need_to_keep_up"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00017_2_android.widget.Image.png", 
+            "iter_00000_step_00005_7_android.widget.TextView.png", 
+            "iter_00000_step_00017_5_android.widget.TextView.png", 
+            "iter_00000_step_00005_9_android.widget.TextView.png", 
+            "iter_00000_step_00017_11_android.widget.TextView.png", 
+            "iter_00000_step_00017_7_android.widget.TextView.png", 
+            "iter_00000_step_00005_10_android.widget.TextView.png", 
+            "iter_00000_step_00017_10_android.widget.TextView.png", 
+            "iter_00000_step_00005_5_android.widget.TextView.png", 
+            "iter_00000_step_00017_8_android.widget.TextView.png", 
+            "iter_00000_step_00005_11_android.widget.TextView.png", 
+            "iter_00000_step_00017_6_android.widget.TextView.png", 
+            "iter_00000_step_00017_9_android.widget.TextView.png", 
+            "iter_00000_step_00005_6_android.widget.TextView.png", 
+            "iter_00000_step_00005_4_android.widget.Image.png", 
+            "iter_00000_step_00017_1_android.widget.Image.png", 
+            "iter_00000_step_00005_12_android.widget.TextView.png", 
+            "iter_00000_step_00017_12_android.widget.TextView.png", 
+            "iter_00000_step_00005_2_android.widget.Image.png", 
+            "iter_00000_step_00005_8_android.widget.TextView.png", 
+            "iter_00000_step_00017_4_android.widget.TextView.png", 
+            "iter_00000_step_00005_13_android.widget.TextView.png", 
+            "iter_00000_step_00005_0_android.widget.TextView.png", 
+            "iter_00000_step_00017_3_android.widget.TextView.png", 
+            "iter_00000_step_00005_14_android.widget.TextView.png", 
+            "iter_00000_step_00017_0_android.widget.TextView.png", 
+            "iter_00000_step_00005_3_android.widget.TextView.png", 
+            "iter_00000_step_00005_1_android.widget.TextView.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00005_0_android.widget.TextView.png": [
+                "iter_00000_step_00005_0_android.widget.TextView.png", 
+                "iter_00000_step_00004_0_android.widget.TextView.png", 
+                "iter_00000_step_00003_0_android.widget.TextView.png", 
+                "iter_00000_step_00002_0_android.widget.TextView.png", 
+                "iter_00000_step_00001_0_android.widget.TextView.png", 
+                "iter_00000_step_00000_0_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_10_android.widget.TextView.png": [
+                "iter_00000_step_00005_10_android.widget.TextView.png", 
+                "iter_00000_step_00004_10_android.widget.TextView.png", 
+                "iter_00000_step_00003_10_android.widget.TextView.png", 
+                "iter_00000_step_00002_10_android.widget.TextView.png", 
+                "iter_00000_step_00001_10_android.widget.TextView.png", 
+                "iter_00000_step_00000_10_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_11_android.widget.TextView.png": [
+                "iter_00000_step_00005_11_android.widget.TextView.png", 
+                "iter_00000_step_00004_11_android.widget.TextView.png", 
+                "iter_00000_step_00003_11_android.widget.TextView.png", 
+                "iter_00000_step_00002_11_android.widget.TextView.png", 
+                "iter_00000_step_00001_11_android.widget.TextView.png", 
+                "iter_00000_step_00000_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_12_android.widget.TextView.png": [
+                "iter_00000_step_00005_12_android.widget.TextView.png", 
+                "iter_00000_step_00004_12_android.widget.TextView.png", 
+                "iter_00000_step_00003_12_android.widget.TextView.png", 
+                "iter_00000_step_00002_12_android.widget.TextView.png", 
+                "iter_00000_step_00001_12_android.widget.TextView.png", 
+                "iter_00000_step_00000_12_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_13_android.widget.TextView.png": [
+                "iter_00000_step_00005_13_android.widget.TextView.png", 
+                "iter_00000_step_00004_13_android.widget.TextView.png", 
+                "iter_00000_step_00003_13_android.widget.TextView.png", 
+                "iter_00000_step_00002_13_android.widget.TextView.png", 
+                "iter_00000_step_00001_13_android.widget.TextView.png", 
+                "iter_00000_step_00000_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_14_android.widget.TextView.png": [
+                "iter_00000_step_00005_14_android.widget.TextView.png", 
+                "iter_00000_step_00004_14_android.widget.TextView.png", 
+                "iter_00000_step_00003_14_android.widget.TextView.png", 
+                "iter_00000_step_00002_14_android.widget.TextView.png", 
+                "iter_00000_step_00001_14_android.widget.TextView.png", 
+                "iter_00000_step_00000_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_1_android.widget.TextView.png": [
+                "iter_00000_step_00005_1_android.widget.TextView.png", 
+                "iter_00000_step_00004_1_android.widget.TextView.png", 
+                "iter_00000_step_00003_1_android.widget.TextView.png", 
+                "iter_00000_step_00002_1_android.widget.TextView.png", 
+                "iter_00000_step_00001_1_android.widget.TextView.png", 
+                "iter_00000_step_00000_1_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_2_android.widget.Image.png": [
+                "iter_00000_step_00005_2_android.widget.Image.png", 
+                "iter_00000_step_00004_2_android.widget.Image.png", 
+                "iter_00000_step_00003_2_android.widget.Image.png", 
+                "iter_00000_step_00002_2_android.widget.Image.png", 
+                "iter_00000_step_00001_2_android.widget.Image.png", 
+                "iter_00000_step_00000_2_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00005_3_android.widget.TextView.png": [
+                "iter_00000_step_00005_3_android.widget.TextView.png", 
+                "iter_00000_step_00004_3_android.widget.TextView.png", 
+                "iter_00000_step_00003_3_android.widget.TextView.png", 
+                "iter_00000_step_00002_3_android.widget.TextView.png", 
+                "iter_00000_step_00001_3_android.widget.TextView.png", 
+                "iter_00000_step_00000_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_4_android.widget.Image.png": [
+                "iter_00000_step_00005_4_android.widget.Image.png", 
+                "iter_00000_step_00004_4_android.widget.Image.png", 
+                "iter_00000_step_00003_4_android.widget.Image.png", 
+                "iter_00000_step_00002_4_android.widget.Image.png", 
+                "iter_00000_step_00001_4_android.widget.Image.png", 
+                "iter_00000_step_00000_4_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00005_5_android.widget.TextView.png": [
+                "iter_00000_step_00005_5_android.widget.TextView.png", 
+                "iter_00000_step_00004_5_android.widget.TextView.png", 
+                "iter_00000_step_00003_5_android.widget.TextView.png", 
+                "iter_00000_step_00002_5_android.widget.TextView.png", 
+                "iter_00000_step_00001_5_android.widget.TextView.png", 
+                "iter_00000_step_00000_5_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_6_android.widget.TextView.png": [
+                "iter_00000_step_00005_6_android.widget.TextView.png", 
+                "iter_00000_step_00004_6_android.widget.TextView.png", 
+                "iter_00000_step_00003_6_android.widget.TextView.png", 
+                "iter_00000_step_00002_6_android.widget.TextView.png", 
+                "iter_00000_step_00001_6_android.widget.TextView.png", 
+                "iter_00000_step_00000_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_7_android.widget.TextView.png": [
+                "iter_00000_step_00005_7_android.widget.TextView.png", 
+                "iter_00000_step_00004_7_android.widget.TextView.png", 
+                "iter_00000_step_00003_7_android.widget.TextView.png", 
+                "iter_00000_step_00002_7_android.widget.TextView.png", 
+                "iter_00000_step_00001_7_android.widget.TextView.png", 
+                "iter_00000_step_00000_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_8_android.widget.TextView.png": [
+                "iter_00000_step_00005_8_android.widget.TextView.png", 
+                "iter_00000_step_00004_8_android.widget.TextView.png", 
+                "iter_00000_step_00003_8_android.widget.TextView.png", 
+                "iter_00000_step_00002_8_android.widget.TextView.png", 
+                "iter_00000_step_00001_8_android.widget.TextView.png", 
+                "iter_00000_step_00000_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00005_9_android.widget.TextView.png": [
+                "iter_00000_step_00005_9_android.widget.TextView.png", 
+                "iter_00000_step_00004_9_android.widget.TextView.png", 
+                "iter_00000_step_00003_9_android.widget.TextView.png", 
+                "iter_00000_step_00002_9_android.widget.TextView.png", 
+                "iter_00000_step_00001_9_android.widget.TextView.png", 
+                "iter_00000_step_00000_9_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_0_android.widget.TextView.png": [
+                "iter_00000_step_00017_0_android.widget.TextView.png", 
+                "iter_00000_step_00016_0_android.widget.TextView.png", 
+                "iter_00000_step_00015_0_android.widget.TextView.png", 
+                "iter_00000_step_00014_0_android.widget.TextView.png", 
+                "iter_00000_step_00013_0_android.widget.TextView.png", 
+                "iter_00000_step_00012_0_android.widget.TextView.png", 
+                "iter_00000_step_00011_0_android.widget.TextView.png", 
+                "iter_00000_step_00010_0_android.widget.TextView.png", 
+                "iter_00000_step_00009_0_android.widget.TextView.png", 
+                "iter_00000_step_00008_0_android.widget.TextView.png", 
+                "iter_00000_step_00007_0_android.widget.TextView.png", 
+                "iter_00000_step_00006_0_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_10_android.widget.TextView.png": [
+                "iter_00000_step_00017_10_android.widget.TextView.png", 
+                "iter_00000_step_00016_10_android.widget.TextView.png", 
+                "iter_00000_step_00015_10_android.widget.TextView.png", 
+                "iter_00000_step_00014_10_android.widget.TextView.png", 
+                "iter_00000_step_00013_10_android.widget.TextView.png", 
+                "iter_00000_step_00012_10_android.widget.TextView.png", 
+                "iter_00000_step_00011_10_android.widget.TextView.png", 
+                "iter_00000_step_00010_10_android.widget.TextView.png", 
+                "iter_00000_step_00009_10_android.widget.TextView.png", 
+                "iter_00000_step_00008_10_android.widget.TextView.png", 
+                "iter_00000_step_00007_10_android.widget.TextView.png", 
+                "iter_00000_step_00006_10_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_11_android.widget.TextView.png": [
+                "iter_00000_step_00017_11_android.widget.TextView.png", 
+                "iter_00000_step_00016_11_android.widget.TextView.png", 
+                "iter_00000_step_00015_11_android.widget.TextView.png", 
+                "iter_00000_step_00014_11_android.widget.TextView.png", 
+                "iter_00000_step_00013_11_android.widget.TextView.png", 
+                "iter_00000_step_00012_11_android.widget.TextView.png", 
+                "iter_00000_step_00011_11_android.widget.TextView.png", 
+                "iter_00000_step_00010_11_android.widget.TextView.png", 
+                "iter_00000_step_00009_11_android.widget.TextView.png", 
+                "iter_00000_step_00008_11_android.widget.TextView.png", 
+                "iter_00000_step_00007_11_android.widget.TextView.png", 
+                "iter_00000_step_00006_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_12_android.widget.TextView.png": [
+                "iter_00000_step_00017_12_android.widget.TextView.png", 
+                "iter_00000_step_00016_12_android.widget.TextView.png", 
+                "iter_00000_step_00015_12_android.widget.TextView.png", 
+                "iter_00000_step_00014_12_android.widget.TextView.png", 
+                "iter_00000_step_00013_12_android.widget.TextView.png", 
+                "iter_00000_step_00012_12_android.widget.TextView.png", 
+                "iter_00000_step_00011_12_android.widget.TextView.png", 
+                "iter_00000_step_00010_12_android.widget.TextView.png", 
+                "iter_00000_step_00009_12_android.widget.TextView.png", 
+                "iter_00000_step_00008_12_android.widget.TextView.png", 
+                "iter_00000_step_00007_12_android.widget.TextView.png", 
+                "iter_00000_step_00006_12_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_1_android.widget.Image.png": [
+                "iter_00000_step_00017_1_android.widget.Image.png", 
+                "iter_00000_step_00016_1_android.widget.Image.png", 
+                "iter_00000_step_00015_1_android.widget.Image.png", 
+                "iter_00000_step_00014_1_android.widget.Image.png", 
+                "iter_00000_step_00013_1_android.widget.Image.png", 
+                "iter_00000_step_00012_1_android.widget.Image.png", 
+                "iter_00000_step_00011_1_android.widget.Image.png", 
+                "iter_00000_step_00010_1_android.widget.Image.png", 
+                "iter_00000_step_00009_1_android.widget.Image.png", 
+                "iter_00000_step_00008_1_android.widget.Image.png", 
+                "iter_00000_step_00007_1_android.widget.Image.png", 
+                "iter_00000_step_00006_1_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00017_2_android.widget.Image.png": [
+                "iter_00000_step_00017_2_android.widget.Image.png", 
+                "iter_00000_step_00016_2_android.widget.Image.png", 
+                "iter_00000_step_00015_2_android.widget.Image.png", 
+                "iter_00000_step_00014_2_android.widget.Image.png", 
+                "iter_00000_step_00013_2_android.widget.Image.png", 
+                "iter_00000_step_00012_2_android.widget.Image.png", 
+                "iter_00000_step_00011_2_android.widget.Image.png", 
+                "iter_00000_step_00010_2_android.widget.Image.png", 
+                "iter_00000_step_00009_2_android.widget.Image.png", 
+                "iter_00000_step_00008_2_android.widget.Image.png", 
+                "iter_00000_step_00007_2_android.widget.Image.png", 
+                "iter_00000_step_00006_2_android.widget.Image.png"
+            ], 
+            "iter_00000_step_00017_3_android.widget.TextView.png": [
+                "iter_00000_step_00017_3_android.widget.TextView.png", 
+                "iter_00000_step_00016_3_android.widget.TextView.png", 
+                "iter_00000_step_00015_3_android.widget.TextView.png", 
+                "iter_00000_step_00014_3_android.widget.TextView.png", 
+                "iter_00000_step_00013_3_android.widget.TextView.png", 
+                "iter_00000_step_00012_3_android.widget.TextView.png", 
+                "iter_00000_step_00011_3_android.widget.TextView.png", 
+                "iter_00000_step_00010_3_android.widget.TextView.png", 
+                "iter_00000_step_00009_3_android.widget.TextView.png", 
+                "iter_00000_step_00008_3_android.widget.TextView.png", 
+                "iter_00000_step_00007_3_android.widget.TextView.png", 
+                "iter_00000_step_00006_3_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_4_android.widget.TextView.png": [
+                "iter_00000_step_00017_4_android.widget.TextView.png", 
+                "iter_00000_step_00016_4_android.widget.TextView.png", 
+                "iter_00000_step_00015_4_android.widget.TextView.png", 
+                "iter_00000_step_00014_4_android.widget.TextView.png", 
+                "iter_00000_step_00013_4_android.widget.TextView.png", 
+                "iter_00000_step_00012_4_android.widget.TextView.png", 
+                "iter_00000_step_00011_4_android.widget.TextView.png", 
+                "iter_00000_step_00010_4_android.widget.TextView.png", 
+                "iter_00000_step_00009_4_android.widget.TextView.png", 
+                "iter_00000_step_00008_4_android.widget.TextView.png", 
+                "iter_00000_step_00007_4_android.widget.TextView.png", 
+                "iter_00000_step_00006_4_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_5_android.widget.TextView.png": [
+                "iter_00000_step_00017_5_android.widget.TextView.png", 
+                "iter_00000_step_00016_5_android.widget.TextView.png", 
+                "iter_00000_step_00015_5_android.widget.TextView.png", 
+                "iter_00000_step_00014_5_android.widget.TextView.png", 
+                "iter_00000_step_00013_5_android.widget.TextView.png", 
+                "iter_00000_step_00012_5_android.widget.TextView.png", 
+                "iter_00000_step_00011_5_android.widget.TextView.png", 
+                "iter_00000_step_00010_5_android.widget.TextView.png", 
+                "iter_00000_step_00009_5_android.widget.TextView.png", 
+                "iter_00000_step_00008_5_android.widget.TextView.png", 
+                "iter_00000_step_00007_5_android.widget.TextView.png", 
+                "iter_00000_step_00006_5_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_6_android.widget.TextView.png": [
+                "iter_00000_step_00017_6_android.widget.TextView.png", 
+                "iter_00000_step_00016_6_android.widget.TextView.png", 
+                "iter_00000_step_00015_6_android.widget.TextView.png", 
+                "iter_00000_step_00014_6_android.widget.TextView.png", 
+                "iter_00000_step_00013_6_android.widget.TextView.png", 
+                "iter_00000_step_00012_6_android.widget.TextView.png", 
+                "iter_00000_step_00011_6_android.widget.TextView.png", 
+                "iter_00000_step_00010_6_android.widget.TextView.png", 
+                "iter_00000_step_00009_6_android.widget.TextView.png", 
+                "iter_00000_step_00008_6_android.widget.TextView.png", 
+                "iter_00000_step_00007_6_android.widget.TextView.png", 
+                "iter_00000_step_00006_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_7_android.widget.TextView.png": [
+                "iter_00000_step_00017_7_android.widget.TextView.png", 
+                "iter_00000_step_00016_7_android.widget.TextView.png", 
+                "iter_00000_step_00015_7_android.widget.TextView.png", 
+                "iter_00000_step_00014_7_android.widget.TextView.png", 
+                "iter_00000_step_00013_7_android.widget.TextView.png", 
+                "iter_00000_step_00012_7_android.widget.TextView.png", 
+                "iter_00000_step_00011_7_android.widget.TextView.png", 
+                "iter_00000_step_00010_7_android.widget.TextView.png", 
+                "iter_00000_step_00009_7_android.widget.TextView.png", 
+                "iter_00000_step_00008_7_android.widget.TextView.png", 
+                "iter_00000_step_00007_7_android.widget.TextView.png", 
+                "iter_00000_step_00006_7_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_8_android.widget.TextView.png": [
+                "iter_00000_step_00017_8_android.widget.TextView.png", 
+                "iter_00000_step_00016_8_android.widget.TextView.png", 
+                "iter_00000_step_00015_8_android.widget.TextView.png", 
+                "iter_00000_step_00014_8_android.widget.TextView.png", 
+                "iter_00000_step_00013_8_android.widget.TextView.png", 
+                "iter_00000_step_00012_8_android.widget.TextView.png", 
+                "iter_00000_step_00011_8_android.widget.TextView.png", 
+                "iter_00000_step_00010_8_android.widget.TextView.png", 
+                "iter_00000_step_00009_8_android.widget.TextView.png", 
+                "iter_00000_step_00008_8_android.widget.TextView.png", 
+                "iter_00000_step_00007_8_android.widget.TextView.png", 
+                "iter_00000_step_00006_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00017_9_android.widget.TextView.png": [
+                "iter_00000_step_00017_9_android.widget.TextView.png", 
+                "iter_00000_step_00016_9_android.widget.TextView.png", 
+                "iter_00000_step_00015_9_android.widget.TextView.png", 
+                "iter_00000_step_00014_9_android.widget.TextView.png", 
+                "iter_00000_step_00013_9_android.widget.TextView.png", 
+                "iter_00000_step_00012_9_android.widget.TextView.png", 
+                "iter_00000_step_00011_9_android.widget.TextView.png", 
+                "iter_00000_step_00010_9_android.widget.TextView.png", 
+                "iter_00000_step_00009_9_android.widget.TextView.png", 
+                "iter_00000_step_00008_9_android.widget.TextView.png", 
+                "iter_00000_step_00007_9_android.widget.TextView.png", 
+                "iter_00000_step_00006_9_android.widget.TextView.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00006_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00007_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00008_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00009_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00010_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00011_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00012_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00013_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00014_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00015_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00016_screenshot.png": "iter_00000_step_00008_screenshot.png", 
+            "iter_00000_step_00017_screenshot.png": "iter_00000_step_00008_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00005_0_android.widget.TextView.png", 
+                "iter_00000_step_00005_1_android.widget.TextView.png", 
+                "iter_00000_step_00005_2_android.widget.Image.png", 
+                "iter_00000_step_00005_3_android.widget.TextView.png", 
+                "iter_00000_step_00005_4_android.widget.Image.png", 
+                "iter_00000_step_00005_5_android.widget.TextView.png", 
+                "iter_00000_step_00005_6_android.widget.TextView.png", 
+                "iter_00000_step_00005_7_android.widget.TextView.png", 
+                "iter_00000_step_00005_8_android.widget.TextView.png", 
+                "iter_00000_step_00005_9_android.widget.TextView.png", 
+                "iter_00000_step_00005_10_android.widget.TextView.png", 
+                "iter_00000_step_00005_11_android.widget.TextView.png", 
+                "iter_00000_step_00005_12_android.widget.TextView.png", 
+                "iter_00000_step_00005_13_android.widget.TextView.png", 
+                "iter_00000_step_00005_14_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00008_screenshot.png": [
+                "iter_00000_step_00017_0_android.widget.TextView.png", 
+                "iter_00000_step_00017_1_android.widget.Image.png", 
+                "iter_00000_step_00017_2_android.widget.Image.png", 
+                "iter_00000_step_00017_3_android.widget.TextView.png", 
+                "iter_00000_step_00017_4_android.widget.TextView.png", 
+                "iter_00000_step_00017_5_android.widget.TextView.png", 
+                "iter_00000_step_00017_6_android.widget.TextView.png", 
+                "iter_00000_step_00017_7_android.widget.TextView.png", 
+                "iter_00000_step_00017_8_android.widget.TextView.png", 
+                "iter_00000_step_00017_9_android.widget.TextView.png", 
+                "iter_00000_step_00017_10_android.widget.TextView.png", 
+                "iter_00000_step_00017_11_android.widget.TextView.png", 
+                "iter_00000_step_00017_12_android.widget.TextView.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    6
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png", 
+                    "iter_00000_step_00001_screenshot.png", 
+                    "iter_00000_step_00003_screenshot.png", 
+                    "iter_00000_step_00004_screenshot.png", 
+                    "iter_00000_step_00005_screenshot.png", 
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "android.widget.image", 
+                    "image", 
+                    "android.widget.textview", 
+                    "textview"
+                ], 
+                "text": [
+                    "", 
+                    "request_a_demo", 
+                    "code_creation,_constant_code_maintenance,_and", 
+                    "go_beyond_legacy", 
+                    "problems_with_scale.", 
+                    "contact", 
+                    "sing_this_website,_you_agree_to_our_use_of_cookies._we_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._please_review_our_privacy_policy_for_more_information,", 
+                    "ai_provides_the_speed_that_qa_teams_need_to_keep_up", 
+                    "vith_devops_cycles_and_eliminates_the_need_for_tedious", 
+                    "with_test.ai", 
+                    "automation_tools", 
+                    "oduct_industries_company_events_careers_contact"
+                ]
+            }, 
+            "iter_00000_step_00008_screenshot.png": {
+                "dupe_count": [
+                    12
+                ], 
+                "dupes": [
+                    "iter_00000_step_00008_screenshot.png", 
+                    "iter_00000_step_00015_screenshot.png", 
+                    "iter_00000_step_00012_screenshot.png", 
+                    "iter_00000_step_00007_screenshot.png", 
+                    "iter_00000_step_00006_screenshot.png", 
+                    "iter_00000_step_00013_screenshot.png", 
+                    "iter_00000_step_00014_screenshot.png", 
+                    "iter_00000_step_00009_screenshot.png", 
+                    "iter_00000_step_00016_screenshot.png", 
+                    "iter_00000_step_00011_screenshot.png", 
+                    "iter_00000_step_00010_screenshot.png", 
+                    "iter_00000_step_00017_screenshot.png"
+                ], 
+                "tags": [
+                    "all_screens", 
+                    "android.widget.image", 
+                    "image", 
+                    "android.widget.textview", 
+                    "textview"
+                ], 
+                "text": [
+                    "", 
+                    "code_creation,_constant_code_maintenance,_and", 
+                    "using_this_website,_you_agree_to_our_use_of_cookies._we_use_cookies_to_provide_you_with_a_great_experience_and_to_help_our_website_run_effectively._please_review_our_privacy_policy_for_more_information,", 
+                    "test.ai_transforms_software", 
+                    "go_beyond_legacy", 
+                    "problems_with_scale", 
+                    "ai_provides_the_speed_that_qa_teams_need_to_keep_up", 
+                    "with_test.ai", 
+                    "ith_devops_cycles_and_eliminates_the_need_for_tedious", 
+                    "automation_tools", 
+                    "software_test", 
+                    "testin"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00008_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png", 
+                "iter_00000_step_00001_screenshot.png", 
+                "iter_00000_step_00003_screenshot.png", 
+                "iter_00000_step_00004_screenshot.png", 
+                "iter_00000_step_00005_screenshot.png", 
+                "iter_00000_step_00002_screenshot.png"
+            ], 
+            "iter_00000_step_00008_screenshot.png": [
+                "iter_00000_step_00008_screenshot.png", 
+                "iter_00000_step_00015_screenshot.png", 
+                "iter_00000_step_00012_screenshot.png", 
+                "iter_00000_step_00007_screenshot.png", 
+                "iter_00000_step_00006_screenshot.png", 
+                "iter_00000_step_00013_screenshot.png", 
+                "iter_00000_step_00014_screenshot.png", 
+                "iter_00000_step_00009_screenshot.png", 
+                "iter_00000_step_00016_screenshot.png", 
+                "iter_00000_step_00011_screenshot.png", 
+                "iter_00000_step_00010_screenshot.png", 
+                "iter_00000_step_00017_screenshot.png"
+            ]
+        }
+    }
+}
