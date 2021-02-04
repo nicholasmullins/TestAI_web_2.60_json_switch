@@ -31,10 +31,11 @@
         "iter_00000_step_00000_19_a.png": {
             "btn_demo": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
                 }, 
-                "score": 0.99, 
-                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+                "score": 1.0, 
+                "source": "hash_based"
             }
         }, 
         "iter_00000_step_00000_4_a.png": {

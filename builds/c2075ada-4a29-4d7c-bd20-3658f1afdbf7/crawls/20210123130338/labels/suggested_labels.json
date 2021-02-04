@@ -3,6 +3,7 @@
         "iter_00000_step_00000_19_a.png": {
             "btn_demo": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 

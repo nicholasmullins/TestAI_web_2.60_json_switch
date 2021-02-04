@@ -51,10 +51,11 @@
         "iter_00000_step_00002_20_a.png": {
             "btn_demo": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.99
                 }, 
-                "score": 0.99, 
-                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+                "score": 1.0, 
+                "source": "hash_based"
             }
         }, 
         "iter_00000_step_00002_21_a.png": {
@@ -118,6 +119,7 @@
         "iter_00000_step_00002_44_a.png": {
             "mi_privacy_policy": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
@@ -146,6 +148,7 @@
         "iter_00000_step_00002_48_a.png": {
             "mi_about_us": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
@@ -155,6 +158,7 @@
         "iter_00000_step_00002_49_a.png": {
             "mi_service_terms": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 

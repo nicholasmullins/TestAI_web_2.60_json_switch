@@ -97,6 +97,15 @@
                 "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
             }
         }, 
+        "iter_00000_step_00003_41_a.png": {
+            "mi_privacy_policy": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
         "iter_00000_step_00003_43_div.png": {
             "mi_service_terms": {
                 "all_scores": {
@@ -110,6 +119,7 @@
         "iter_00000_step_00003_45_a.png": {
             "mi_about_us": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
@@ -119,6 +129,7 @@
         "iter_00000_step_00003_46_a.png": {
             "mi_service_terms": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
@@ -132,6 +143,15 @@
                 }, 
                 "score": 1.0, 
                 "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00004_16_a.png": {
+            "btn_demo": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
             }
         }, 
         "iter_00000_step_00004_28_a.png": {

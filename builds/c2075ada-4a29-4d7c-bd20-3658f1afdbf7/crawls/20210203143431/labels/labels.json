@@ -169,9 +169,7 @@
         "iter_00000_step_00019_6_div.png": [
             "div_test_ai_news"
         ], 
-        "iter_00000_step_00021_16_div.png": [
-            "mi_about_us"
-        ], 
+        "iter_00000_step_00021_16_div.png": [], 
         "iter_00000_step_00021_17_a.png": [
             "mi_website_terms"
         ], 
@@ -184,12 +182,8 @@
         "iter_00000_step_00021_25_a.png": [
             "mi_team"
         ], 
-        "iter_00000_step_00021_39_div.png": [
-            "mi_privacy_policy"
-        ], 
-        "iter_00000_step_00021_44_div.png": [
-            "mi_service_terms"
-        ], 
+        "iter_00000_step_00021_39_div.png": [], 
+        "iter_00000_step_00021_44_div.png": [], 
         "iter_00000_step_00023_19_a.png": [
             "lnk_data_sheet"
         ], 

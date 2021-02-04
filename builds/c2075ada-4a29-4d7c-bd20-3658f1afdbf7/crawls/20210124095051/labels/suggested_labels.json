@@ -99,6 +99,7 @@
         "iter_00000_step_00003_58_a.png": {
             "mi_privacy_policy": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
@@ -114,9 +115,19 @@
                 "source": "hash_based"
             }
         }, 
+        "iter_00000_step_00003_65_a.png": {
+            "mi_about_us": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
         "iter_00000_step_00003_66_a.png": {
             "mi_service_terms": {
                 "all_scores": {
+                    "hash_based": 1.0, 
                     "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
                 }, 
                 "score": 1.0, 
@@ -207,6 +218,15 @@
         }, 
         "iter_00009_step_00001_16_div.png": {
             "img_robot_main": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00009_step_00001_19_a.png": {
+            "btn_demo": {
                 "all_scores": {
                     "hash_based": 1.0
                 }, 
