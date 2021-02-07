@@ -1,91 +1,5 @@
 {
-    "(Brainstorm) - Home Page Switch": {
-        "description": "", 
-        "is_deactivated": true, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_accept_cookies"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_company"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mi_team"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_test_ai"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Switch to Home Page", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_test_ai_home.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [
-            "switchhome"
-        ], 
-        "temp_id": "002bfa6b-604d-11eb-bc7e-f21898b22a98", 
-        "title": "(Brainstorm) - Home Page Switch"
-    }, 
-    "Careers - 1 - First Three Jobs & EEO links": {
+    "Careers - 1 - First Three Sales Jobs & EEOs": {
         "description": "", 
         "is_deactivated": false, 
         "steps": [
@@ -300,9 +214,9 @@
             "careers1"
         ], 
         "temp_id": "0ffb96b3-4d44-11eb-baba-787b8ade0f4b", 
-        "title": "Careers - 1 - First Three Jobs & EEO links"
+        "title": "Careers - 1 - First Three Sales Jobs & EEOs"
     }, 
-    "Careers - 2 - Three Jobs & EEO links": {
+    "Careers - 2 - Next Three Sales Jobs & EEOs": {
         "description": "", 
         "is_deactivated": false, 
         "steps": [
@@ -528,9 +442,9 @@
             "careers2"
         ], 
         "temp_id": "b27b9e1e-4d53-11eb-a79d-787b8ade0f4b", 
-        "title": "Careers - 2 - Three Jobs & EEO links"
+        "title": "Careers - 2 - Next Three Sales Jobs & EEOs"
     }, 
-    "Careers - 3 - Last Three Jobs & EEOs": {
+    "Careers - 3 - Last Three Sales Jobs & EEOs": {
         "description": "", 
         "is_deactivated": false, 
         "steps": [
@@ -750,16 +664,80 @@
                 "labels": [], 
                 "type": "action", 
                 "widget": "default"
+            }
+        ], 
+        "tags": [
+            "careers", 
+            "career3"
+        ], 
+        "temp_id": "f48e2473-4d56-11eb-82a6-787b8ade0f4b", 
+        "title": "Careers - 3 - Last Three Sales Jobs & EEOs"
+    }, 
+    "Careers - 4 - Engineer Jobs & EEOs": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_accept_cookies"
+                ], 
+                "type": "action", 
+                "widget": "default"
             }, 
             {
                 "continue_on_failure": false, 
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "swipe_up", 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_careers"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Swipe Until EEO Link", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
                 "label_count": null, 
                 "labels": [], 
+                "script_name": "swipe_until_lnk_eeo_pdf.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_front_end_eng"
+                ], 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Swipe Until EEO Link", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "script_name": "swipe_until_lnk_eeo_pdf.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -796,16 +774,40 @@
                 "labels": [], 
                 "type": "action", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_eeo_pdf"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "go_back", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "action", 
+                "widget": "default"
             }
         ], 
         "tags": [
             "careers", 
-            "career3"
+            "career4"
         ], 
-        "temp_id": "f48e2473-4d56-11eb-82a6-787b8ade0f4b", 
-        "title": "Careers - 3 - Last Three Jobs & EEOs"
+        "temp_id": "7aebd991-68cd-11eb-80bc-f01898ee9cfe", 
+        "title": "Careers - 4 - Engineer Jobs & EEOs"
     }, 
-    "Company - About Us, Team": {
+    "Company - About Us & Team": {
         "description": "**Waiting on a Switch Tab fix for the Home Page that opens in Step 8", 
         "is_deactivated": false, 
         "steps": [
@@ -915,7 +917,7 @@
             "team"
         ], 
         "temp_id": "95c6a868-4d6f-11eb-b2eb-787b8ade0f4b", 
-        "title": "Company - About Us, Team"
+        "title": "Company - About Us & Team"
     }, 
     "Company - News - 1 - Links 1-6": {
         "description": "", 
@@ -2008,7 +2010,181 @@
         "temp_id": "9709c70f-6131-11eb-9a1c-f21898b22a98", 
         "title": "Company - News - 4 - Last 4 Links"
     }, 
-    "Company - Request a Demo & Contact": {
+    "Company - Resources": {
+        "description": "**Needs Verification Steps after every link tap. Waiting on PDF Switch Tab fix", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_accept_cookies"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_company"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_resources"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "String - Name of Page in Body", 
+                "grep": "Resources", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_data_sheet"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_games_study"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_fitness_study"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_software_study"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_app_store_study"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_transportation_study"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_high_tech_study"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [
+            "resources"
+        ], 
+        "temp_id": "ba2bfa40-61c5-11eb-a0f7-f21898b22a98", 
+        "title": "Company - Resources"
+    }, 
+    "Company - Terms & Privacy / Demo & Contact": {
         "description": "", 
         "is_deactivated": false, 
         "steps": [
@@ -2203,181 +2379,7 @@
             "contact"
         ], 
         "temp_id": "25041c19-4d75-11eb-a6f6-787b8ade0f4b", 
-        "title": "Company - Request a Demo & Contact"
-    }, 
-    "Company - Resources": {
-        "description": "**Needs Verification Steps after every link tap. Waiting on PDF Switch Tab fix", 
-        "is_deactivated": false, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_accept_cookies"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_company"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mi_resources"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "String - Name of Page in Body", 
-                "grep": "Resources", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_data_sheet"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_games_study"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_fitness_study"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_software_study"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_app_store_study"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_transportation_study"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_high_tech_study"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [
-            "resources"
-        ], 
-        "temp_id": "ba2bfa40-61c5-11eb-a0f7-f21898b22a98", 
-        "title": "Company - Resources"
+        "title": "Company - Terms & Privacy / Demo & Contact"
     }, 
     "Events - 1 - First Three Events": {
         "description": "", 
@@ -2997,24 +2999,14 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Swipe Until the We Build Awesome text link", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "swipe_up", 
+                "input": "", 
                 "label_count": null, 
                 "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
+                "script_name": "swipe_until_lnk_we_build.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -3032,7 +3024,7 @@
             }, 
             {
                 "continue_on_failure": true, 
-                "description": "", 
+                "description": "String - First Few Words of 1st Bullet Point", 
                 "grep": "Test.ai bots explore", 
                 "grep_count": null, 
                 "input": "", 
@@ -3054,7 +3046,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Swipe Until Request Demo button", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -3852,818 +3844,6 @@
         ], 
         "temp_id": "7aa57dd1-52a5-11eb-ac56-f01898f25f2e", 
         "title": "Product - Personal Edition"
-    }, 
-    "X - OLD - News - 1st Six Links": {
-        "description": "", 
-        "is_deactivated": true, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_accept_cookies"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_company"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mi_news"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_quest"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_image_only_news_one.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_quest.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_quest"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_bg.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Switch to Image and Push Agree Button on Popup (btn_bg_agree_image)", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_image_only_bg.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "Bridging the gap", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_will_ai.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "Jason Arbon, CEO and founder", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_fifty.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_fifty"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_ai_software.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_ai_software"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [], 
-        "temp_id": "d8ac96e6-4fac-11eb-97e8-f01898f25f2e", 
-        "title": "X - OLD - News - 1st Six Links"
-    }, 
-    "X - OLD - News - 2nd Six Links": {
-        "description": "", 
-        "is_deactivated": true, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_accept_cookies"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_company"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mi_news"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_image_only_news_two.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_intro.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_intro"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_test_ai.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_test_ai_raises"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_two.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_two"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_art_int_software.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "September 29, 2017", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_art_int_software"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_future_software.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_future_software"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_becoming.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_close_aws_becoming"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_becoming"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [], 
-        "temp_id": "8c1801e6-4fb9-11eb-891f-f01898f25f2e", 
-        "title": "X - OLD - News - 2nd Six Links"
-    }, 
-    "X - OLD - News - 3rd Six Links": {
-        "description": "", 
-        "is_deactivated": true, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_accept_cookies"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_company"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mi_news"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_image_only_news_three.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_thirteen.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_thirteen"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_tisqa.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_tisqa"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_transforming.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_transforming"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_moving.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_moving"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_trends.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_trends"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_thirty.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_thirty"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [], 
-        "temp_id": "0d1484c7-4fbe-11eb-b85b-f01898f25f2e", 
-        "title": "X - OLD - News - 3rd Six Links"
-    }, 
-    "X - OLD - News - 4th Six Links": {
-        "description": "", 
-        "is_deactivated": true, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_accept_cookies"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_company"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mi_news"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_image_only_news_four.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_will_bots.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_tb_no_thanks"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_will_bots"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_future_testing.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_future_testing"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_test_automation.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_test_automation"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "switch_tab_new_era.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_new_era"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [], 
-        "temp_id": "196293ab-4fbe-11eb-87a0-f01898f25f2e", 
-        "title": "X - OLD - News - 4th Six Links"
     }, 
     "test image only labels": {
         "description": "", 
